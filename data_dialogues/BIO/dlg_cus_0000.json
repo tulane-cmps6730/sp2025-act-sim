@@ -1,0 +1,173 @@
+{
+  "dialogue_id": "dlg_cus_0000",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_000_AT:",
+        "delta",
+        "two",
+        "one",
+        "two",
+        "decend",
+        "and",
+        "maintain",
+        "five",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_001_PI:",
+        "descending",
+        "four",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_002_AT:",
+        "american",
+        "three",
+        "five",
+        "three",
+        "heavy",
+        "turn",
+        "right",
+        "heading",
+        "zero",
+        "one",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_003_PI:",
+        "right",
+        "to",
+        "one",
+        "zero",
+        "zero",
+        "for",
+        "american",
+        "three",
+        "five",
+        "three"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_003_AT:",
+        "southwest",
+        "five",
+        "one",
+        "one",
+        "climb",
+        "and",
+        "maintain",
+        "flight",
+        "level",
+        "two",
+        "one",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_004_PI:",
+        "climb",
+        "to",
+        "two",
+        "two",
+        "zero",
+        "southwest",
+        "five",
+        "one",
+        "one"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

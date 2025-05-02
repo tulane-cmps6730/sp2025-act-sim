@@ -1,0 +1,46 @@
+[
+    {
+      "id": "custom-00-AT",
+      "text": "delta one two eight decend and maintain three thousand"
+    },
+    {
+      "id": "custom-01-PI",
+      "text": "three thousand delta one two eight"
+    },
+    {
+      "id": "custom-02-AT",
+      "text": "american two five two turn left heading one zero one cleared ils runway three one right approach"
+    },
+    {
+      "id": "custom-03-PI",
+      "text": "left to one zero one cleared for the approach american two five two"
+    },
+    {
+      "id": "custom-04-AT",
+      "text": "united five three five heavy decend and maintain nine thousand"
+    },
+    {
+      "id": "custom-05-AT",
+      "text": "delta one one eight climb and maintain eight thousand direct carmel"
+    },
+    {
+      "id": "custom-06-AT",
+      "text": "delta five five two traffic for you one o'clock five miles southeast bound at five thousand"
+    },
+    {
+      "id": "custom-07-AT",
+      "text": "united three five three heavy turn right heading zero nine zero join the localizer"
+    },
+    {
+      "id": "custom-08-AT",
+      "text": "southwest niner two niner winds zero five zero at five runway three one right cleared to land traffic departing the parallel"
+    },
+    {
+        "id": "custom-09-AT",
+        "text": "southwest two three nine climb and maintain five thousand"
+    },
+    {
+        "id": "custom-10-AT",
+        "text": "southwest one one two decend and maintain four thousand"
+    }
+]

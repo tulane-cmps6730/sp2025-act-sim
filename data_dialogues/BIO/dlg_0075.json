@@ -1,0 +1,289 @@
+{
+  "dialogue_id": "dlg_0075",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_000184_000497_PI:",
+        "radar",
+        "hello",
+        "lufthansa",
+        "zero",
+        "three",
+        "tango",
+        "flight",
+        "level",
+        "three",
+        "five",
+        "zer"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_000596_001173_AT:",
+        "lufthansa",
+        "zero",
+        "three",
+        "tango",
+        "praha",
+        "radar",
+        "contact",
+        "descend",
+        "flight",
+        "level",
+        "two",
+        "nine",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_001199_001462_AT:",
+        "to",
+        "reach",
+        "by",
+        "abrax"
+      ],
+      "tags": [
+        "O",
+        "B-CONDITION",
+        "I-CONDITION",
+        "I-CONDITION",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_001533_001923_PI:",
+        "descend",
+        "flight",
+        "level",
+        "two",
+        "nine",
+        "zero",
+        "to",
+        "reach",
+        "by",
+        "abrax",
+        "lufthansa",
+        "zero",
+        "three",
+        "tango"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CONDITION",
+        "I-CONDITION",
+        "I-CONDITION",
+        "B-WAYPOINT",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_002614_002947_AT:",
+        "lot",
+        "three",
+        "two",
+        "nine",
+        "proceed",
+        "to",
+        "oscar",
+        "kilo",
+        "golf"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-WAYPOINT",
+        "I-WAYPOINT",
+        "I-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_003282_003463_PI:",
+        "cheb",
+        "direct",
+        "lot",
+        "three",
+        "two",
+        "nine"
+      ],
+      "tags": [
+        "O",
+        "B-WAYPOINT",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_003564_003928_PI:",
+        "praha",
+        "good",
+        "afternoon",
+        "lufthansa",
+        "eight",
+        "mike",
+        "m",
+        "climbing",
+        "level",
+        "two",
+        "eight",
+        "zero",
+        "inbound",
+        "tom"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-STATUS",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-STATUS",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_003990_004573_AT:",
+        "lufthansa",
+        "eight",
+        "mike",
+        "m",
+        "praha",
+        "radar",
+        "contact",
+        "climb",
+        "flight",
+        "level",
+        "three",
+        "two",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-FACILITY",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_004639_004710_PI:",
+        "flight",
+        "level",
+        "three",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u10",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-4MNvaV_004742_004817_PI:",
+        "lufthansa",
+        "eight",
+        "mike",
+        "mi"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O"
+      ]
+    }
+  ]
+}

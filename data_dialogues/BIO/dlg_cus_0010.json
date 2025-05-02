@@ -1,0 +1,133 @@
+{
+  "dialogue_id": "dlg_cus_0010",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_041_AT:",
+        "united",
+        "two",
+        "eighty",
+        "turn",
+        "right",
+        "heading",
+        "zero",
+        "six",
+        "zero",
+        "vector",
+        "for",
+        "sequence"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-STATUS",
+        "I-STATUS",
+        "I-STATUS"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_042_PI:",
+        "right",
+        "to",
+        "heading",
+        "zero",
+        "eight",
+        "zero",
+        "united",
+        "two",
+        "eighty"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "ncusdialog_042r_PI:",
+        "heading",
+        "zero",
+        "eight",
+        "zero",
+        "united",
+        "two",
+        "eighty"
+      ],
+      "tags": [
+        "O",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_043_AT:",
+        "descend",
+        "and",
+        "maintain",
+        "four",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_044_PI:",
+        "descending",
+        "four",
+        "thousand",
+        "united",
+        "two",
+        "eighty"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+node_modules
+.vscode
+__pycache__
+labelstudio_to_model.py
+app/models

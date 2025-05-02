@@ -1,0 +1,66 @@
+<View>
+    <!-- Span tagging for slot filling -->
+    <Labels name="ner" toName="text">
+        <Label value="CALLSIGN" background="#ffa39e" />
+        <Label value="INSTRUCTION" background="#ffd591" />
+        <Label value="CLEARANCE" background="#95de64" />
+
+        <!-- Trajectories -->
+        <Label value="ALTITUDE" background="#d3f261" />
+        <Label value="HEADING" background="#91d5ff" />
+        <Label value="SPEED" background="#b37feb" />
+        <Label value="ROUTE" background="#69c0ff" />
+        <Label value="WAYPOINT" background="#ff85c0" />
+        <Label value="APPROACH" background="#e3f5db" />
+
+        <!-- Information -->
+        <Label value="TIME" background="#a0d911" />
+        <Label value="FREQUENCY" background="#ffd666" />
+        <Label value="TRAFFIC" background="#95de64" />
+        <Label value="FACILITY" background="#d3f6db" />
+        <Label value="WIND" background="#e385db" />
+        <Label value="STATUS" background="#e382db" />
+        <Label value="SQUAWK" background="#e356db" />
+        <Label value="REQUEST" background="#e386db" />
+
+        <!-- Locations -->
+        <Label value="RUNWAY" background="#ff9c6e" />
+        <Label value="TAXIWAY" background="#ff9c6e" />
+        
+        <!-- “when able”, “if traffic allows”, “after passing FL200”, “weather permitting” -->
+        <Label value="CONDITION" background="#fadb14" />
+        <!-- “immediately”, “at 1430 Zulu”, “in one minute”, “until further advised” -->
+        <Label value="TEMPORAL_MODIFIER" background="#bae637" />
+        <!-- Marks an utterance or span that starts a procedure or unlocks the next instruction. "Ready", "radar contact" -->
+        <Label value="TRIGGER" background="#13c2c2" />
+    </Labels>
+
+    <!-- Utterance-level intent classification -->
+    <Choices name="intent" toName="text" choice="single" showInLine="true">
+        <Choice value="INSTRUCTION" />
+        <Choice value="READBACK" />
+        <Choice value="INQUIRY" />
+        <Choice value="CLEARANCE" />
+        <Choice value="INFORMATION" />
+        <Choice value="FIRST-CONTACT" />
+        <Choice value="REQUEST" />
+    </Choices>
+
+    <!-- Utterance-level speaker classification -->
+    <Choices name="speaker" toName="text" choice="single" showInLine="true">
+        <Choice value="PILOT" />
+        <Choice value="CONTROLLER-CTR" />
+        <Choice value="CONTROLLER-TRA" />
+        <Choice value="CONTROLLER-TWR" />
+    </Choices>
+
+    <!-- ONLY FOR DIALOGUES! -->
+    <Relations>
+        <Relation value="matches_instruction" />
+        <Relation value="incorrect_readback" />
+        <Relation value="partial_readback" />
+    </Relations>
+
+    <!-- Input text -->
+    <Text name="text" value="$text" />
+</View>

@@ -1,0 +1,235 @@
+{
+  "dialogue_id": "dlg_0174",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_000000_000468_PI:",
+        "lufthansa",
+        "seven",
+        "five",
+        "eight",
+        "out",
+        "of",
+        "two",
+        "eight",
+        "zero",
+        "climbing",
+        "three",
+        "ten"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-STATUS",
+        "B-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_000527_000908_AT:",
+        "lufthansa",
+        "seven",
+        "five",
+        "eight",
+        "praha",
+        "good",
+        "day",
+        "radar",
+        "contact",
+        "stand",
+        "bye",
+        "for",
+        "higher"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_000953_001244_PI:",
+        "seven",
+        "five",
+        "eight",
+        "on",
+        "heading",
+        "one",
+        "hundred"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-STATUS",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_001271_001374_AT:",
+        "roger"
+      ],
+      "tags": [
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_001605_002225_PI:",
+        "praha",
+        "polet",
+        "four",
+        "one",
+        "zero",
+        "six",
+        "good",
+        "morning",
+        "level",
+        "three",
+        "one",
+        "zero",
+        "to",
+        "holesov"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O",
+        "O",
+        "B-STATUS",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_002289_002644_AT:",
+        "four",
+        "one",
+        "two",
+        "six",
+        "praha",
+        "good",
+        "day",
+        "radar",
+        "contact"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_002890_003295_AT:",
+        "csa",
+        "eight",
+        "five",
+        "six",
+        "climb",
+        "flight",
+        "level",
+        "three",
+        "four",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-Aic6cJ_003392_003686_PI:",
+        "climb",
+        "flight",
+        "level",
+        "three",
+        "four",
+        "zero",
+        "csa",
+        "five",
+        "six"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

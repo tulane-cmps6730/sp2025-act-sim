@@ -1,0 +1,143 @@
+{
+  "dialogue_id": "dlg_cus_0006",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_025_AT:",
+        "frontier",
+        "two",
+        "seventeen",
+        "turn",
+        "left",
+        "heading",
+        "two",
+        "one",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_026_PI:",
+        "turning",
+        "left",
+        "heading",
+        "two",
+        "one",
+        "zero",
+        "frontier",
+        "two",
+        "seventeen"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_027_AT:",
+        "jetblue",
+        "four",
+        "sixty",
+        "cross",
+        "DANDY",
+        "at",
+        "and",
+        "maintain",
+        "one",
+        "one",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-CONDITION",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_028_PI:",
+        "cross",
+        "DANDY",
+        "maintain",
+        "one",
+        "zero",
+        "thousand",
+        "jetblue",
+        "four",
+        "sixty"
+      ],
+      "tags": [
+        "O",
+        "B-CONDITION",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "ncusdialog_028r_PI:",
+        "one",
+        "zero",
+        "thousand",
+        "jetblue",
+        "four",
+        "sixty"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "dialogue_id": "dlg_0020",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_000154_000605_AT:",
+        "speed",
+        "bird",
+        "one",
+        "zero",
+        "nine",
+        "contact",
+        "bratislava",
+        "one",
+        "three",
+        "four",
+        "decimal",
+        "four",
+        "seven",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_000682_001013_PI:",
+        "three",
+        "four",
+        "four",
+        "seven",
+        "five",
+        "bratislava",
+        "speed",
+        "bird",
+        "one",
+        "zero",
+        "nine"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-FACILITY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_001182_001492_PI:",
+        "thomson",
+        "one",
+        "zero",
+        "alfa",
+        "good",
+        "evening",
+        "flight",
+        "level",
+        "three",
+        "six"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_001677_002079_AT:",
+        "thomson",
+        "one",
+        "zero",
+        "alfa",
+        "praha",
+        "radar",
+        "good",
+        "evening",
+        "radar",
+        "contact"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY",
+        "O",
+        "O",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_002145_002488_AT:",
+        "after",
+        "ditis",
+        "direct",
+        "varik",
+        "then",
+        "kemad"
+      ],
+      "tags": [
+        "O",
+        "B-TEMPORAL_MODIFIER",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "B-WAYPOINT",
+        "B-TEMPORAL_MODIFIER",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_002551_002945_PI:",
+        "ditis",
+        "direct",
+        "kemad",
+        "thomson"
+      ],
+      "tags": [
+        "O",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "B-WAYPOINT",
+        "B-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_002983_003068_PI:",
+        "one",
+        "zero",
+        "alfa"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_003800_004142_PI:",
+        "thomson",
+        "one",
+        "zero",
+        "alfa"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_004174_004284_PI:",
+        "el",
+        "three",
+        "eight",
+        "zero",
+        "plea"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u10",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1fA76t_004531_004816_AT:",
+        "we",
+        "have",
+        "no",
+        "traffic",
+        "at",
+        "level",
+        "three",
+        "eight",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    }
+  ]
+}

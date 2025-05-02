@@ -1,0 +1,159 @@
+{
+  "dialogue_id": "dlg_1857",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-3OaTZx_000086_000532_AT:",
+        "csa",
+        "nine",
+        "seven",
+        "seven",
+        "contact",
+        "ruzyne",
+        "ground",
+        "one",
+        "two",
+        "one",
+        "decimal",
+        "nine"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "I-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-3OaTZx_000598_000707_PI:",
+        "one",
+        "two",
+        "one",
+        "decimal",
+        "ni"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-3OaTZx_000739_000814_PI:",
+        "csa",
+        "nine",
+        "sev"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-3OaTZx_000959_001604_AT:",
+        "csa",
+        "five",
+        "seven",
+        "three",
+        "runway",
+        "three",
+        "one",
+        "clear",
+        "to",
+        "land",
+        "wind",
+        "one",
+        "nine",
+        "zero",
+        "degrees",
+        "three",
+        "knots",
+        "expedite",
+        "vacating",
+        "via",
+        "golf"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-TAXIWAY"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-3OaTZx_001639_002082_PI:",
+        "runway",
+        "three",
+        "one",
+        "clear",
+        "to",
+        "land",
+        "expediting",
+        "vacating",
+        "via",
+        "golf",
+        "csa"
+      ],
+      "tags": [
+        "O",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-TAXIWAY",
+        "O"
+      ]
+    }
+  ]
+}

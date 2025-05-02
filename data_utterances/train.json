@@ -1,0 +1,9949 @@
+[
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_TWR-7SxoR3_000114_000686_AT:",
+      "donavia",
+      "three",
+      "zero",
+      "five",
+      "runway",
+      "three",
+      "one",
+      "clear",
+      "to",
+      "land",
+      "wind",
+      "three",
+      "three",
+      "zero",
+      "degrees",
+      "and",
+      "three",
+      "knots"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_001332_001625_AT:",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero",
+      "descend",
+      "flight",
+      "level",
+      "six",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_000509_000783_PI:",
+      "fedex",
+      "one",
+      "request",
+      "flight",
+      "level",
+      "three",
+      "six",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-REQUEST",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u24",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_010243_010498_AT:",
+      "beair",
+      "one",
+      "four",
+      "zero",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "utt_035",
+    "tokens": [
+      "aero",
+      "flot",
+      "one",
+      "four",
+      "four",
+      "runway",
+      "one",
+      "three",
+      "clear",
+      "for",
+      "takeoff"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u37",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_016810_017102_AT:",
+      "air",
+      "france",
+      "one",
+      "three",
+      "eight",
+      "two",
+      "turn",
+      "right",
+      "heading",
+      "two",
+      "seven",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_036_PI:",
+      "holding",
+      "short",
+      "two",
+      "six",
+      "left"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-2AbS52_000066_000598_PI:",
+      "praha",
+      "singapoore",
+      "two",
+      "six",
+      "good",
+      "morning",
+      "on",
+      "the",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "three",
+      "five",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_007_PI:",
+      "two",
+      "eight",
+      "zero",
+      "for",
+      "delta",
+      "one",
+      "thirty"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_003_PI:",
+      "right",
+      "to",
+      "one",
+      "zero",
+      "zero",
+      "for",
+      "american",
+      "three",
+      "five",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_000393_000480_AT:",
+      "go"
+    ],
+    "labels": [
+      "O",
+      "B-TRIGGER"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-RZZFNs_000114_000480_AT",
+    "tokens": [
+      "quality",
+      "nine",
+      "sierra",
+      "continue",
+      "on",
+      "present",
+      "heading",
+      "and",
+      "expect",
+      "left",
+      "base"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "O",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_000656_000924_AT:",
+      "contract",
+      "one",
+      "whiskey",
+      "alfa",
+      "praha",
+      "good",
+      "morning",
+      "radar",
+      "contact"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_000000_000395_AT",
+    "tokens": [
+      "sky",
+      "shuttle",
+      "one",
+      "one",
+      "four",
+      "zero",
+      "now",
+      "descend",
+      "flight",
+      "level",
+      "three",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": [
+      {
+        "from": {
+          "start": 6,
+          "end": 8,
+          "label": "INSTRUCTION"
+        },
+        "to": {
+          "start": 8,
+          "end": 13,
+          "label": "ALTITUDE"
+        },
+        "type": "modifies"
+      }
+    ]
+  },
+  {
+    "utterance_id": "u47",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_020631_020906_PI:",
+      "ok",
+      "was",
+      "that",
+      "one",
+      "six",
+      "zero",
+      "on",
+      "the",
+      "speed"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-REQUEST",
+      "I-REQUEST",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "cusdialog_027_AT:",
+      "jetblue",
+      "four",
+      "sixty",
+      "cross",
+      "DANDY",
+      "at",
+      "and",
+      "maintain",
+      "one",
+      "one",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CONDITION",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0CUxlz_000944_001520_AT",
+    "tokens": [
+      "good",
+      "afternoon",
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "praha",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "three",
+      "zero",
+      "zero",
+      "level",
+      "by",
+      "rapet"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-9OQvFy_002641_002879_PI",
+    "tokens": [
+      "left",
+      "heading",
+      "one",
+      "six",
+      "zero",
+      "cleared",
+      "for",
+      "the",
+      "ils",
+      "approach",
+      "runway"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "O"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-Z7FEEf_000174_000748_PI",
+    "tokens": [
+      "praha",
+      "radar",
+      "csa",
+      "eight",
+      "two",
+      "nine",
+      "descending",
+      "level",
+      "one",
+      "one",
+      "zero",
+      "information",
+      "kilo",
+      "one",
+      "zero",
+      "two",
+      "zero"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-1DTI8r_002866_003311_PI",
+    "tokens": [
+      "descending",
+      "two",
+      "nine",
+      "zero",
+      "and",
+      "contact",
+      "praga",
+      "praha",
+      "one",
+      "two",
+      "seven",
+      "one",
+      "two",
+      "five",
+      "lot"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "O",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_TWR-3OaTZx_000959_001604_AT:",
+      "csa",
+      "five",
+      "seven",
+      "three",
+      "runway",
+      "three",
+      "one",
+      "clear",
+      "to",
+      "land",
+      "wind",
+      "one",
+      "nine",
+      "zero",
+      "degrees",
+      "three",
+      "knots",
+      "expedite",
+      "vacating",
+      "via",
+      "golf"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-TAXIWAY"
+    ]
+  },
+  {
+    "utterance_id": "u28",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_012455_012598_AT:",
+      "roger",
+      "maintain",
+      "one",
+      "eighty"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_001679_001880_PI:",
+      "alright",
+      "say",
+      "again",
+      "altitude"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_020_AT:",
+      "speedbird",
+      "ten",
+      "climb",
+      "and",
+      "maintain",
+      "five",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_019_PI:",
+      "right",
+      "to",
+      "three",
+      "two",
+      "zero",
+      "down",
+      "to",
+      "one",
+      "zero",
+      "thousand",
+      "united",
+      "twenty",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0YuNK8_001399_001727_PI",
+    "tokens": [
+      "descend",
+      "flight",
+      "level",
+      "two",
+      "nine",
+      "zero",
+      "ryan",
+      "air",
+      "six",
+      "quebec",
+      "uni"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_011",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "csa",
+      "six",
+      "nine",
+      "one",
+      "established",
+      "ils",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CONDITION",
+      "I-CONDITION",
+      "I-CONDITION",
+      "I-CONDITION",
+      "B-CONDITION",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u16",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_007718_008006_PI:",
+      "four",
+      "alfa",
+      "hotel",
+      "level",
+      "two",
+      "nine",
+      "zero",
+      "one",
+      "three",
+      "five",
+      "one",
+      "three",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-6SmAFH_001977_002353_AT",
+    "tokens": [
+      "csa",
+      "six",
+      "nine",
+      "one",
+      "left",
+      "heading",
+      "one",
+      "six",
+      "zero",
+      "clear",
+      "ils",
+      "approach",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-8Cjm0P_000551_001058_PI",
+    "tokens": [
+      "descend",
+      "to",
+      "four",
+      "thousand",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "clear",
+      "ils",
+      "three",
+      "one",
+      "csa",
+      "four",
+      "zero",
+      "sev"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_003172_003449_PI:",
+      "praha",
+      "radar",
+      "nine",
+      "zero",
+      "whiskey",
+      "level",
+      "t"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_TWR-6TuGhy_000000_000569_AT",
+    "tokens": [
+      "yes",
+      "quality",
+      "eight",
+      "nine",
+      "sierra",
+      "we",
+      "need",
+      "to",
+      "vacate",
+      "the",
+      "car",
+      "from",
+      "taxiway",
+      "right",
+      "of",
+      "you",
+      "now",
+      "so",
+      "when",
+      "clear",
+      "you",
+      "can"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "B-TAXIWAY",
+      "I-TAXIWAY",
+      "I-TAXIWAY",
+      "I-TAXIWAY",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-dNTx2k_002692_002864_AT",
+    "tokens": [
+      "runway",
+      "use",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "u22",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_009543_009627_PI:",
+      "cleared",
+      "ils"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-rmm5hW_000981_001299_AT",
+    "tokens": [
+      "air",
+      "france",
+      "one",
+      "zero",
+      "eight",
+      "two",
+      "right",
+      "heading",
+      "zero",
+      "seven",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_030_PI:",
+      "cleared",
+      "to",
+      "land",
+      "runway",
+      "two",
+      "eight",
+      "left",
+      "alaska",
+      "twenty",
+      "nine"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_TWR-3OaTZx_000739_000814_PI:",
+      "csa",
+      "nine",
+      "sev"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_001199_001462_AT:",
+      "to",
+      "reach",
+      "by",
+      "abrax"
+    ],
+    "labels": [
+      "O",
+      "B-CONDITION",
+      "I-CONDITION",
+      "I-CONDITION",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_000665_000738_PI:",
+      "k",
+      "oscar",
+      "zulu"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u11",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_005602_005744_PI:",
+      "squawking",
+      "one",
+      "four",
+      "fi"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-2SbsTH_000499_000779_PI",
+    "tokens": [
+      "is",
+      "climbing",
+      "flight",
+      "level",
+      "one",
+      "six",
+      "zero",
+      "radar",
+      "heading",
+      "two",
+      "seven",
+      "zero"
+    ],
+    "labels": [
+      "B-STATUS",
+      "I-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_044_PI:",
+      "descending",
+      "four",
+      "thousand",
+      "united",
+      "two",
+      "eighty"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_027",
+    "tokens": [
+      "roger",
+      "reduce",
+      "speed",
+      "one",
+      "five",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_040_PI:",
+      "center",
+      "one",
+      "two",
+      "four",
+      "point",
+      "seven",
+      "jetblue",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-1P0mFp_001069_001166_AT:",
+      "standby"
+    ],
+    "labels": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-bgFYjJ_000424_000680_PI:",
+      "german",
+      "wings",
+      "two",
+      "one",
+      "zero",
+      "climb",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_000665_000738_PI",
+    "tokens": [
+      "k",
+      "oscar",
+      "zulu"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u29",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_012710_012787_PI:",
+      "maintaining"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-I04vVE_000111_000416_AT",
+    "tokens": [
+      "sky",
+      "travel",
+      "one",
+      "two",
+      "zero",
+      "one",
+      "you",
+      "may",
+      "expect",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "B-STATUS",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-1ZvQqb_004486_004970_AT",
+    "tokens": [
+      "sky",
+      "travel",
+      "six",
+      "six",
+      "one",
+      "to",
+      "my",
+      "last",
+      "information",
+      "you",
+      "may",
+      "expect",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-STATUS",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0H4CW3_000933_001628_AT",
+    "tokens": [
+      "aero",
+      "flot",
+      "one",
+      "two",
+      "two",
+      "hello",
+      "radar",
+      "contact",
+      "proceed",
+      "to",
+      "pemur",
+      "climb",
+      "to",
+      "flight",
+      "level",
+      "three",
+      "one",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_026",
+    "tokens": [
+      "speed",
+      "bird",
+      "two",
+      "zero",
+      "uniform",
+      "reduce",
+      "speed",
+      "one",
+      "five",
+      "zero",
+      "knots"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "custom-05-AT",
+    "tokens": [
+      "delta",
+      "one",
+      "one",
+      "eight",
+      "climb",
+      "and",
+      "maintain",
+      "eight",
+      "thousand",
+      "direct",
+      "carmel"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-INSTRUCTION",
+      "B-WAYPOINT"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "ncusdialog_022r_PI:",
+      "up",
+      "to",
+      "three",
+      "one",
+      "zero",
+      "delta",
+      "sixty",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-6kjnmX_010784_011070_PI",
+    "tokens": [
+      "right",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "cleared",
+      "approach",
+      "three",
+      "one",
+      "klm",
+      "five",
+      "five",
+      "tango"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-APPROACH",
+      "I-APPROACH",
+      "B-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_039",
+    "tokens": [
+      "swiss",
+      "four",
+      "seven",
+      "three",
+      "charlie",
+      "runway",
+      "three",
+      "one",
+      "cleared",
+      "for",
+      "takeoff",
+      "wind",
+      "one",
+      "eight",
+      "zero",
+      "degrees",
+      "four",
+      "knots",
+      "good",
+      "bye"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "O",
+      "O"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_000000_000468_PI:",
+      "lufthansa",
+      "seven",
+      "five",
+      "eight",
+      "out",
+      "of",
+      "two",
+      "eight",
+      "zero",
+      "climbing",
+      "three",
+      "ten"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_028_PI:",
+      "cross",
+      "DANDY",
+      "maintain",
+      "one",
+      "zero",
+      "thousand",
+      "jetblue",
+      "four",
+      "sixty"
+    ],
+    "labels": [
+      "O",
+      "B-CONDITION",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_000596_001173_AT:",
+      "lufthansa",
+      "zero",
+      "three",
+      "tango",
+      "praha",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "two",
+      "nine",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "custom-09-AT",
+    "tokens": [
+      "southwest",
+      "two",
+      "three",
+      "nine",
+      "climb",
+      "and",
+      "maintain",
+      "five",
+      "thousand"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_002866_003311_PI:",
+      "descending",
+      "two",
+      "nine",
+      "zero",
+      "and",
+      "contact",
+      "praga",
+      "praha",
+      "one",
+      "two",
+      "seven",
+      "one",
+      "two",
+      "five",
+      "lot"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_000163_000346_PI:",
+      "established",
+      "lufthansa",
+      "two",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-STATUS",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "ncusdialog_020r_PI:",
+      "six",
+      "for",
+      "speedbird",
+      "ten"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u13",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_006433_006513_PI:",
+      "four",
+      "zero",
+      "bye",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_002747_003087_PI:",
+      "lomki",
+      "six",
+      "romeo",
+      "proceed",
+      "lomki",
+      "contract"
+    ],
+    "labels": [
+      "O",
+      "B-ROUTE",
+      "I-ROUTE",
+      "I-ROUTE",
+      "B-INSTRUCTION",
+      "B-WAYPOINT",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-4rDJug_000159_000702_PIAT",
+    "tokens": [
+      "csa",
+      "five",
+      "zero",
+      "nine",
+      "cleared",
+      "for",
+      "il",
+      "visual",
+      "approach",
+      "runway",
+      "one",
+      "three",
+      "visual",
+      "approach",
+      "runway",
+      "one",
+      "th"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_003990_004573_AT:",
+      "lufthansa",
+      "eight",
+      "mike",
+      "m",
+      "praha",
+      "radar",
+      "contact",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "two",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-FACILITY",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_001124_001356_PI:",
+      "praha",
+      "good",
+      "morning",
+      "contract",
+      "two",
+      "lima",
+      "golf"
+    ],
+    "labels": [
+      "O",
+      "B-FACILITY",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-0TwRAv_000640_001138_AT",
+    "tokens": [
+      "break",
+      "break",
+      "csa",
+      "seven",
+      "kilo",
+      "golf",
+      "to",
+      "the",
+      "left",
+      "heading",
+      "two",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_TWR-5l5z6F_001311_001995_PI",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "three",
+      "one",
+      "three",
+      "holding",
+      "position",
+      "runway",
+      "one",
+      "three",
+      "taxiway",
+      "golf"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "I-STATUS",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-TAXIWAY",
+      "I-TAXIWAY"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-YIe55s_004287_004659_AT",
+    "tokens": [
+      "speed",
+      "bird",
+      "two",
+      "zero",
+      "uniform",
+      "left",
+      "heading",
+      "zero",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_038",
+    "tokens": [
+      "csa",
+      "two",
+      "mike",
+      "charlie",
+      "continue"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-BApTbN_002994_003244_PI",
+    "tokens": [
+      "to",
+      "the",
+      "right",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "cleared",
+      "ils",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_020",
+    "tokens": [
+      "north",
+      "shuttle",
+      "one",
+      "five",
+      "zero",
+      "zero",
+      "two",
+      "runway",
+      "three",
+      "one",
+      "cleared",
+      "to",
+      "land",
+      "wind",
+      "two",
+      "three",
+      "zero",
+      "degrees",
+      "six",
+      "knots"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-GVeTke_005947_006422_AT",
+    "tokens": [
+      "ryan",
+      "air",
+      "two",
+      "xray",
+      "foxtrot",
+      "proceed",
+      "direct",
+      "oscar",
+      "kilo",
+      "golf",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "I-WAYPOINT",
+      "I-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_022_PI:",
+      "up",
+      "to",
+      "flight",
+      "level",
+      "three",
+      "one",
+      "zero",
+      "delta",
+      "sixty",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-yZ7DOJ_004293_004372_PI",
+    "tokens": [
+      "go",
+      "intercept"
+    ],
+    "labels": [
+      "O",
+      "O"
+    ],
+    "intent": "INQUIRY",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u52",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_022223_022383_PI:",
+      "intercept",
+      "localizer",
+      "runway",
+      "three",
+      "one",
+      "beair",
+      "one",
+      "four"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "custom-00-AT",
+    "tokens": [
+      "delta",
+      "one",
+      "two",
+      "eight",
+      "decend",
+      "and",
+      "maintain",
+      "three",
+      "thousand"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-Z5nx1x_005405_005722_PI",
+    "tokens": [
+      "right",
+      "turn",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "to",
+      "localizer",
+      "three",
+      "one",
+      "klm",
+      "three",
+      "five"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "O",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_011_AT:",
+      "virgin",
+      "eighteen",
+      "heavy",
+      "wind",
+      "two",
+      "one",
+      "zero",
+      "at",
+      "five",
+      "runway",
+      "three",
+      "one",
+      "right",
+      "clear",
+      "for",
+      "takeoff"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE"
+    ]
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_002983_003068_PI:",
+      "one",
+      "zero",
+      "alfa"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_002571_002879_PI",
+    "tokens": [
+      "lufthansa",
+      "five",
+      "mike",
+      "echo",
+      "present",
+      "heading",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-2AbS52_001437_001829_PI:",
+      "two",
+      "six",
+      "descend",
+      "continue",
+      "to",
+      "level",
+      "three",
+      "zero",
+      "zero",
+      "to",
+      "reach",
+      "by",
+      "rapet"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-CONDITION",
+      "I-CONDITION",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-fLSaFd_001986_002785_AT",
+    "tokens": [
+      "and",
+      "lufthansa",
+      "seven",
+      "eight",
+      "seven",
+      "proceed",
+      "direct",
+      "to",
+      "kenok",
+      "then",
+      "intercept",
+      "localizer",
+      "runway",
+      "three",
+      "one",
+      "no",
+      "speed",
+      "limit"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-TEMPORAL_MODIFIER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u40",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_018430_018805_AT:",
+      "csa",
+      "seven",
+      "two",
+      "seven",
+      "continue",
+      "present",
+      "heading",
+      "vectoring",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_024_PI:",
+      "descend",
+      "five",
+      "thousand",
+      "american",
+      "ninety"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u15",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_007288_007502_AT:",
+      "ive",
+      "decimal",
+      "one",
+      "three",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-bgFYjJ_000743_001243_AT:",
+      "and",
+      "german",
+      "wings",
+      "two",
+      "one",
+      "four",
+      "zero",
+      "contact",
+      "praha",
+      "one",
+      "three",
+      "three",
+      "three",
+      "nine",
+      "zero",
+      "bye",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_014_PI:",
+      "line",
+      "up",
+      "and",
+      "wait",
+      "runway",
+      "six",
+      "united",
+      "nine",
+      "thirty",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u12",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_006252_006411_PI:",
+      "three",
+      "three",
+      "nine",
+      "zero",
+      "flight",
+      "level",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_000184_000497_PI:",
+      "radar",
+      "hello",
+      "lufthansa",
+      "zero",
+      "three",
+      "tango",
+      "flight",
+      "level",
+      "three",
+      "five",
+      "zer"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "utt_012",
+    "tokens": [
+      "continue",
+      "approach",
+      "csa",
+      "six",
+      "nine",
+      "one"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_001113_001230_PI:",
+      "up"
+    ],
+    "labels": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0ScD9T_000392_000738_PI",
+    "tokens": [
+      "passing",
+      "two",
+      "four",
+      "six",
+      "climbing",
+      "two",
+      "eight",
+      "zero",
+      "inbound",
+      "kuvix"
+    ],
+    "labels": [
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "B-WAYPOINT"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_010_AT:",
+      "american",
+      "twenty",
+      "four",
+      "ten",
+      "climb",
+      "and",
+      "maintain",
+      "one",
+      "seven",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-YIe55s_004693_004821_PI",
+    "tokens": [
+      "left",
+      "heading",
+      "zero",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_000861_001075_PI:",
+      "eighteen",
+      "one",
+      "lufthansa",
+      "two",
+      "hotel",
+      "tango",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u19",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_008613_008871_PI:",
+      "four",
+      "thousand",
+      "clear",
+      "ils"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CLEARANCE",
+      "I-CLEARANCE"
+    ]
+  },
+  {
+    "utterance_id": "u18",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_007947_008613_AT:",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero",
+      "descend",
+      "four",
+      "thousand",
+      "feet",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "cleared",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ]
+  },
+  {
+    "utterance_id": "utt_010",
+    "tokens": [
+      "two",
+      "one",
+      "nine",
+      "csa",
+      "seven",
+      "bravo",
+      "juliett"
+    ],
+    "labels": [
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_001391_001812_PI:",
+      "information",
+      "november",
+      "and",
+      "we",
+      "fly",
+      "level",
+      "two",
+      "one",
+      "zero",
+      "inbound",
+      "dobel"
+    ],
+    "labels": [
+      "O",
+      "B-STATUS",
+      "I-STATUS",
+      "O",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u25",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_010595_010748_PI:",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "zero",
+      "zero",
+      "beair",
+      "one",
+      "four",
+      "z"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_009_PI:",
+      "zero",
+      "nine",
+      "zero",
+      "fifty",
+      "three",
+      "thirteen"
+    ],
+    "labels": [
+      "O",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_029_AT:",
+      "alaska",
+      "twenty",
+      "nine",
+      "runway",
+      "two",
+      "eight",
+      "right",
+      "cleared",
+      "to",
+      "land"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_000818_000902_AT:",
+      "standby"
+    ],
+    "labels": [
+      "O",
+      "B-TRIGGER"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_001735_002289_PI:",
+      "uniform",
+      "u",
+      "ultralight",
+      "zephyr"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "cusdialog_004_PI:",
+      "climb",
+      "to",
+      "two",
+      "two",
+      "zero",
+      "southwest",
+      "five",
+      "one",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_000527_000908_AT:",
+      "lufthansa",
+      "seven",
+      "five",
+      "eight",
+      "praha",
+      "good",
+      "day",
+      "radar",
+      "contact",
+      "stand",
+      "bye",
+      "for",
+      "higher"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-c3Fi6e_001675_002299_AT",
+    "tokens": [
+      "csa",
+      "three",
+      "mike",
+      "zulu",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "three",
+      "zero",
+      "expect",
+      "vectoring",
+      "for",
+      "left",
+      "curcuit",
+      "runway"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "O"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-ZWCH4J_007630_008211_AT",
+    "tokens": [
+      "aerosvit",
+      "two",
+      "zero",
+      "nine",
+      "proceed",
+      "direct",
+      "to",
+      "kenok",
+      "then",
+      "intercept",
+      "localizer",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-TEMPORAL_MODIFIER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_032",
+    "tokens": [
+      "csa",
+      "two",
+      "zulu",
+      "alfa",
+      "ruzyne",
+      "tower",
+      "continue",
+      "approach"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_038_PI:",
+      "climb",
+      "and",
+      "maintain",
+      "one",
+      "four",
+      "thousand",
+      "jetblue",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_001677_002079_AT:",
+      "thomson",
+      "one",
+      "zero",
+      "alfa",
+      "praha",
+      "radar",
+      "good",
+      "evening",
+      "radar",
+      "contact"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ]
+  },
+  {
+    "utterance_id": "u10",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_005167_005527_AT:",
+      "lufthansa",
+      "two",
+      "five",
+      "five",
+      "zero",
+      "squawk",
+      "one",
+      "four",
+      "five",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK"
+    ]
+  },
+  {
+    "utterance_id": "utt_044",
+    "tokens": [
+      "cleared",
+      "for",
+      "takeoff",
+      "three",
+      "one",
+      "csa",
+      "seven",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "custom-07-AT",
+    "tokens": [
+      "united",
+      "three",
+      "five",
+      "three",
+      "heavy",
+      "turn",
+      "right",
+      "heading",
+      "zero",
+      "nine",
+      "zero",
+      "join",
+      "the",
+      "localizer"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u12",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_005767_006058_PI:",
+      "two",
+      "lufthansa",
+      "five",
+      "two",
+      "five",
+      "five",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_008",
+    "tokens": [
+      "clear",
+      "to",
+      "land",
+      "shamrock",
+      "six",
+      "four",
+      "four"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "ncusdialog_042r_PI:",
+      "heading",
+      "zero",
+      "eight",
+      "zero",
+      "united",
+      "two",
+      "eighty"
+    ],
+    "labels": [
+      "O",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_002145_002488_AT:",
+      "after",
+      "ditis",
+      "direct",
+      "varik",
+      "then",
+      "kemad"
+    ],
+    "labels": [
+      "O",
+      "B-TEMPORAL_MODIFIER",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-TEMPORAL_MODIFIER",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u48",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_020987_021322_AT:",
+      "speed",
+      "one",
+      "sixty",
+      "till",
+      "four",
+      "and",
+      "ruzyne",
+      "tower",
+      "one",
+      "one",
+      "eight",
+      "decimal",
+      "one",
+      "good",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "B-CONDITION",
+      "I-CONDITION",
+      "O",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "custom-10-AT",
+    "tokens": [
+      "southwest",
+      "one",
+      "one",
+      "two",
+      "decend",
+      "and",
+      "maintain",
+      "four",
+      "thousand"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_007",
+    "tokens": [
+      "shamrock",
+      "six",
+      "four",
+      "four",
+      "runway",
+      "three",
+      "one",
+      "clear",
+      "to",
+      "land",
+      "wind",
+      "zero",
+      "six",
+      "zero",
+      "degrees",
+      "at",
+      "five"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-0Oi8pk_003368_004063_PIAT",
+    "tokens": [
+      "german",
+      "wings",
+      "seven",
+      "papa",
+      "left",
+      "turn",
+      "heading",
+      "zero",
+      "four",
+      "zero",
+      "klm",
+      "five",
+      "five",
+      "tango",
+      "continue",
+      "present",
+      "heading",
+      "vectoring",
+      "for",
+      "ils",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "O",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_001222_001500_PI",
+    "tokens": [
+      "two",
+      "eight",
+      "dencending",
+      "one",
+      "seven",
+      "zero",
+      "information",
+      "lima"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_003172_003449_PI",
+    "tokens": [
+      "praha",
+      "radar",
+      "nine",
+      "zero",
+      "whiskey",
+      "level",
+      "t"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "O"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-9OQvFy_002041_002570_AT",
+    "tokens": [
+      "quality",
+      "nine",
+      "one",
+      "romeo",
+      "left",
+      "heading",
+      "one",
+      "six",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_006_AT:",
+      "delta",
+      "one",
+      "thirty",
+      "decend",
+      "and",
+      "maintain",
+      "flight",
+      "level",
+      "two",
+      "seven",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-iLkxEJ_000503_001060_AT",
+    "tokens": [
+      "csa",
+      "nine",
+      "two",
+      "one",
+      "now",
+      "clear",
+      "of",
+      "traffic",
+      "on",
+      "your",
+      "left",
+      "hand",
+      "side",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "one",
+      "seven",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "ncusdialog_015r_PI:",
+      "cleared",
+      "to",
+      "land",
+      "watch",
+      "the",
+      "wake",
+      "runway",
+      "one",
+      "six",
+      "one",
+      "twenty"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "O",
+      "O",
+      "O",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_001730_002224_AT:",
+      "sky",
+      "shuttle",
+      "one",
+      "one",
+      "four",
+      "zero",
+      "contact",
+      "vienna",
+      "one",
+      "three",
+      "four",
+      "four",
+      "four",
+      "zero",
+      "bye",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u16",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_006199_006495_AT:",
+      "buerou",
+      "one",
+      "four",
+      "zero",
+      "reduce",
+      "speed",
+      "two",
+      "zero",
+      "zero",
+      "knots"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "utt_049",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "hello",
+      "cimber",
+      "three",
+      "five",
+      "two",
+      "six",
+      "taxing",
+      "for",
+      "three",
+      "one",
+      "fully",
+      "ready"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "I-STATUS",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-8lZkes_005067_005495_AT",
+    "tokens": [
+      "cimber",
+      "three",
+      "five",
+      "two",
+      "seven",
+      "left",
+      "turn",
+      "heading",
+      "one",
+      "four",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_001271_001374_AT:",
+      "roger"
+    ],
+    "labels": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_005602_005744_PI",
+    "tokens": [
+      "squawking",
+      "one",
+      "four",
+      "fi"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "O"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_001560_001772_PI:",
+      "praha",
+      "lot",
+      "three",
+      "six",
+      "two",
+      "ready",
+      "for"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRIGGER",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u35",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_015458_015833_AT:",
+      "csa",
+      "two",
+      "eight",
+      "seven",
+      "praha",
+      "radar",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_015_AT:",
+      "southwest",
+      "one",
+      "twenty",
+      "winds",
+      "two",
+      "six",
+      "zero",
+      "at",
+      "one",
+      "three",
+      "runway",
+      "two",
+      "six",
+      "left",
+      "cleared",
+      "to",
+      "land",
+      "caution",
+      "wake",
+      "turbulence"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-0CUxlz_000496_000897_PI:",
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "radio",
+      "descending",
+      "down",
+      "level",
+      "three",
+      "five",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_TWR-5V2ozw_000000_000383_AT:",
+      "wizz",
+      "air",
+      "four",
+      "nine",
+      "one",
+      "stop",
+      "at",
+      "holding",
+      "point",
+      "two",
+      "more",
+      "landings"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u26",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_011677_012083_AT:",
+      "three",
+      "one",
+      "three",
+      "are",
+      "you",
+      "able",
+      "to",
+      "fly",
+      "higher",
+      "than",
+      "one",
+      "eight",
+      "zero",
+      "knots"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-REQUEST",
+      "I-REQUEST",
+      "O",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_003544_004191_AT",
+    "tokens": [
+      "adriana",
+      "nine",
+      "three",
+      "whiskey",
+      "hello",
+      "radar",
+      "contact",
+      "proceed",
+      "to",
+      "mikov",
+      "squawk",
+      "one",
+      "four",
+      "six",
+      "zero",
+      "bye",
+      "bye",
+      "sorry"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_001682_002299_AT",
+    "tokens": [
+      "lufthansa",
+      "five",
+      "mike",
+      "echo",
+      "good",
+      "morning",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "custom-02-AT",
+    "tokens": [
+      "american",
+      "two",
+      "five",
+      "two",
+      "turn",
+      "left",
+      "heading",
+      "one",
+      "zero",
+      "one",
+      "cleared",
+      "ils",
+      "runway",
+      "three",
+      "one",
+      "right",
+      "approach"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-bN8wa8_000719_001250_PI",
+    "tokens": [
+      "descending",
+      "flight",
+      "level",
+      "one",
+      "three",
+      "zero",
+      "and",
+      "keeping",
+      "higher",
+      "speed",
+      "csa",
+      "three",
+      "five",
+      "delta"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_009",
+    "tokens": [
+      "csa",
+      "seven",
+      "bravo",
+      "juliett",
+      "contact",
+      "ground",
+      "one",
+      "two",
+      "one",
+      "nine"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u21",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_009162_009447_AT:",
+      "three",
+      "one",
+      "three",
+      "cleared",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-0CUxlz_001611_002050_PI:",
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "descending",
+      "flight",
+      "level",
+      "three",
+      "zero",
+      "zero",
+      "level"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_033_AT:",
+      "southwest",
+      "six",
+      "twenty",
+      "two",
+      "taxi",
+      "to",
+      "runway",
+      "two",
+      "six",
+      "left",
+      "via",
+      "bravo",
+      "charlie"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "O",
+      "B-TAXIWAY",
+      "B-TAXIWAY"
+    ]
+  },
+  {
+    "utterance_id": "utt_019",
+    "tokens": [
+      "stop",
+      "at",
+      "holding",
+      "point",
+      "charlie",
+      "alpha",
+      "papa"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_002",
+    "tokens": [
+      "line",
+      "up",
+      "and",
+      "wait",
+      "easy",
+      "eight",
+      "two",
+      "eight",
+      "uniform"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u15",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_005725_006086_PI:",
+      "sand",
+      "feet",
+      "speed",
+      "one",
+      "eight",
+      "zero",
+      "knots",
+      "lady",
+      "austrian",
+      "three",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "custom-08-AT",
+    "tokens": [
+      "southwest",
+      "niner",
+      "two",
+      "niner",
+      "winds",
+      "zero",
+      "five",
+      "zero",
+      "at",
+      "five",
+      "runway",
+      "three",
+      "one",
+      "right",
+      "cleared",
+      "to",
+      "land",
+      "traffic",
+      "departing",
+      "the",
+      "parallel"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_002600_003006_PI",
+    "tokens": [
+      "one",
+      "three",
+      "four",
+      "four",
+      "four",
+      "zero",
+      "sky",
+      "shuttle",
+      "one",
+      "one",
+      "four",
+      "zero",
+      "bye"
+    ],
+    "labels": [
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-bgFYjJ_001266_001655_PI:",
+      "one",
+      "three",
+      "three",
+      "three",
+      "nine",
+      "zero",
+      "german",
+      "wings",
+      "two",
+      "one",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_000_AT:",
+      "delta",
+      "two",
+      "one",
+      "two",
+      "decend",
+      "and",
+      "maintain",
+      "five",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "utt_006",
+    "tokens": [
+      "line",
+      "up",
+      "one",
+      "three",
+      "and",
+      "wait",
+      "csa"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-EDVk2L_002143_002798_AT",
+    "tokens": [
+      "csa",
+      "three",
+      "zero",
+      "three",
+      "roger",
+      "turn",
+      "left",
+      "one",
+      "zero",
+      "degrees",
+      "and",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "one",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_001970_002615_AT:",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero",
+      "descend",
+      "flight",
+      "level",
+      "six",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_043_AT:",
+      "descend",
+      "and",
+      "maintain",
+      "four",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_003_AT:",
+      "southwest",
+      "five",
+      "one",
+      "one",
+      "climb",
+      "and",
+      "maintain",
+      "flight",
+      "level",
+      "two",
+      "one",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "utt_031",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "csa",
+      "two",
+      "zulu",
+      "alfa",
+      "ils",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-cRW9yn_002498_002804_PI",
+    "tokens": [
+      "taxi",
+      "to",
+      "stand",
+      "six",
+      "three",
+      "via",
+      "golf",
+      "csa",
+      "nine",
+      "seven"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "O",
+      "O",
+      "B-TAXIWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_002299_002489_AT",
+    "tokens": [
+      "three",
+      "zero",
+      "continue",
+      "present",
+      "heading"
+    ],
+    "labels": [
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u20",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_008903_009104_PI:",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-1P0mFp_000583_000908_AT:",
+      "would",
+      "you",
+      "be",
+      "able",
+      "to",
+      "take",
+      "flight",
+      "level",
+      "three",
+      "six",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "I-REQUEST",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u42",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_019223_019481_AT:",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero",
+      "confirm",
+      "established"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-REQUEST",
+      "I-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-8Cjm0P_000000_000486_AT",
+    "tokens": [
+      "csa",
+      "four",
+      "zero",
+      "seven",
+      "descend",
+      "altitude",
+      "four",
+      "thousand",
+      "feet",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "cleared",
+      "ils",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_016_AT:",
+      "american",
+      "thirty",
+      "two",
+      "five",
+      "miles",
+      "from",
+      "PRIPT",
+      "maintain",
+      "three",
+      "thousand",
+      "til",
+      "established",
+      "cleared",
+      "ils",
+      "runway",
+      "one",
+      "three",
+      "approach"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-STATUS",
+      "I-STATUS",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CONDITION",
+      "I-CONDITION",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_000850_001023_PI:",
+      "clear",
+      "to",
+      "land",
+      "one",
+      "three",
+      "five",
+      "alfa",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u10",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_004531_004816_AT:",
+      "we",
+      "have",
+      "no",
+      "traffic",
+      "at",
+      "level",
+      "three",
+      "eight",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_000479_000630_PI",
+    "tokens": [
+      "descending",
+      "flight",
+      "level",
+      "three"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_002810_003079_AT:",
+      "air",
+      "france",
+      "one",
+      "three",
+      "two",
+      "reduce",
+      "to",
+      "minimum",
+      "clean",
+      "speed"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-2AbS52_000739_001311_AT:",
+      "singapoore",
+      "two",
+      "six",
+      "praha",
+      "good",
+      "morning",
+      "radar",
+      "contact",
+      "descend",
+      "flight",
+      "level",
+      "three",
+      "zero",
+      "zero",
+      "reach",
+      "level",
+      "by",
+      "rapet"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CONDITION",
+      "I-CONDITION",
+      "I-CONDITION",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_003800_004142_PI:",
+      "thomson",
+      "one",
+      "zero",
+      "alfa"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u23",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_009673_009813_PI:",
+      "three",
+      "one",
+      "three",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_043",
+    "tokens": [
+      "csa",
+      "seven",
+      "three",
+      "zero",
+      "runway",
+      "three",
+      "one",
+      "cleared",
+      "for",
+      "takeoff",
+      "wind",
+      "one",
+      "eight",
+      "zero",
+      "degrees",
+      "three",
+      "knots"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_042_PI:",
+      "right",
+      "to",
+      "heading",
+      "zero",
+      "eight",
+      "zero",
+      "united",
+      "two",
+      "eighty"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-w2ChhT_001003_001324_AT",
+    "tokens": [
+      "csa",
+      "nine",
+      "six",
+      "seven",
+      "left",
+      "heading",
+      "one",
+      "six",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_003544_004191_AT:",
+      "adriana",
+      "nine",
+      "three",
+      "whiskey",
+      "hello",
+      "radar",
+      "contact",
+      "proceed",
+      "to",
+      "mikov",
+      "squawk",
+      "one",
+      "four",
+      "six",
+      "zero",
+      "bye",
+      "bye",
+      "sorry"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "cusdialog_010r_PI:",
+      "up",
+      "to",
+      "one",
+      "nine",
+      "thousand",
+      "for",
+      "american",
+      "twenty",
+      "four",
+      "ten"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_033",
+    "tokens": [
+      "continue"
+    ],
+    "labels": [
+      "B-INSTRUCTION"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_TWR-3OaTZx_000086_000532_AT:",
+      "csa",
+      "nine",
+      "seven",
+      "seven",
+      "contact",
+      "ruzyne",
+      "ground",
+      "one",
+      "two",
+      "one",
+      "decimal",
+      "nine"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "utt_018",
+    "tokens": [
+      "tango",
+      "charlie",
+      "alpha",
+      "papa",
+      "tower",
+      "good",
+      "morning",
+      "stop",
+      "at",
+      "holding",
+      "point"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-YNd9S2_005428_005966_AT",
+    "tokens": [
+      "break",
+      "break",
+      "easy",
+      "three",
+      "zero",
+      "six",
+      "five",
+      "left",
+      "turn",
+      "one",
+      "six",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_022",
+    "tokens": [
+      "german",
+      "wings",
+      "seven",
+      "papa",
+      "runway",
+      "three",
+      "one",
+      "cleared",
+      "to",
+      "land",
+      "wind",
+      "two",
+      "two",
+      "zero",
+      "degrees",
+      "four",
+      "knots"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_021",
+    "tokens": [
+      "cleared",
+      "to",
+      "land",
+      "three",
+      "one",
+      "north",
+      "shuttle",
+      "one",
+      "five",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_TWR-5HTpiM_003459_004092_AT",
+    "tokens": [
+      "krystof",
+      "zero",
+      "one",
+      "roger",
+      "there",
+      "is",
+      "now",
+      "departing",
+      "traffic",
+      "boeing",
+      "seven",
+      "three",
+      "seven",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_TWR-5V2ozw_000421_000627_PI:",
+      "hold",
+      "the",
+      "holding",
+      "point",
+      "and",
+      "we"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "utt_015",
+    "tokens": [
+      "csa",
+      "six",
+      "nine",
+      "one",
+      "tower",
+      "continue",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_005167_005527_AT",
+    "tokens": [
+      "lufthansa",
+      "two",
+      "five",
+      "five",
+      "zero",
+      "squawk",
+      "one",
+      "four",
+      "five",
+      "two"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK",
+      "I-SQUAWK"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u31",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_014079_014155_PI:",
+      "three",
+      "zero",
+      "air",
+      "france"
+    ],
+    "labels": [
+      "O",
+      "B-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-SXhM6Z_000586_001128_AT",
+    "tokens": [
+      "el",
+      "al",
+      "three",
+      "three",
+      "seven",
+      "praha",
+      "hello",
+      "radar",
+      "contact",
+      "proceed",
+      "to",
+      "elmek",
+      "then",
+      "norku"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-TEMPORAL_MODIFIER",
+      "B-WAYPOINT"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-CTR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_002530_002637_AT:",
+      "six",
+      "romeo",
+      "arrival"
+    ],
+    "labels": [
+      "O",
+      "B-ROUTE",
+      "I-ROUTE",
+      "I-ROUTE"
+    ]
+  },
+  {
+    "utterance_id": "utt_005",
+    "tokens": [
+      "csa",
+      "nine",
+      "five",
+      "six",
+      "ruzyne",
+      "tower",
+      "line",
+      "up",
+      "runway",
+      "one",
+      "three",
+      "and",
+      "wait"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u49",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_021374_021580_PI:",
+      "sixty",
+      "till",
+      "four",
+      "and",
+      "eighteen"
+    ],
+    "labels": [
+      "O",
+      "B-SPEED",
+      "B-CONDITION",
+      "I-CONDITION",
+      "O",
+      "B-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-3qIKv5_000465_000712_AT",
+    "tokens": [
+      "fedex",
+      "three",
+      "eight",
+      "morning",
+      "radar",
+      "contact"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "custom-04-AT",
+    "tokens": [
+      "united",
+      "five",
+      "three",
+      "five",
+      "heavy",
+      "decend",
+      "and",
+      "maintain",
+      "nine",
+      "thousand"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_000338_000548_PI:",
+      "two",
+      "five",
+      "zero",
+      "approaching",
+      "cerno"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_000420_000821_AT:",
+      "lufthansa",
+      "two",
+      "hotel",
+      "tango",
+      "contact",
+      "ru",
+      "ruzyne",
+      "tower",
+      "one",
+      "one",
+      "eight",
+      "decimal",
+      "one",
+      "good",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "O",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_002551_002945_PI:",
+      "ditis",
+      "direct",
+      "kemad",
+      "thomson"
+    ],
+    "labels": [
+      "O",
+      "B-WAYPOINT",
+      "B-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u45",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_019668_019901_PI:",
+      "yes",
+      "fully",
+      "established"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-STATUS",
+      "I-STATUS"
+    ]
+  },
+  {
+    "utterance_id": "utt_042",
+    "tokens": [
+      "cleared",
+      "for",
+      "takeoff",
+      "runway",
+      "one",
+      "three",
+      "csa",
+      "seven",
+      "eight",
+      "eight"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_003564_003928_PI:",
+      "praha",
+      "good",
+      "afternoon",
+      "lufthansa",
+      "eight",
+      "mike",
+      "m",
+      "climbing",
+      "level",
+      "two",
+      "eight",
+      "zero",
+      "inbound",
+      "tom"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-4N5nct_003472_004034_AT",
+    "tokens": [
+      "malev",
+      "eight",
+      "two",
+      "zero",
+      "descend",
+      "four",
+      "thousand",
+      "feet",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "cleared",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "o"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "O"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_040",
+    "tokens": [
+      "clear",
+      "takeoff",
+      "runway",
+      "three",
+      "one",
+      "swiss",
+      "four",
+      "seven",
+      "three",
+      "charlie"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_051",
+    "tokens": [
+      "cimber",
+      "three",
+      "five",
+      "two",
+      "six",
+      "line",
+      "up",
+      "runway",
+      "three",
+      "one",
+      "and",
+      "wait"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "O",
+      "O"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "custom-06-AT",
+    "tokens": [
+      "delta",
+      "five",
+      "five",
+      "two",
+      "traffic",
+      "for",
+      "you",
+      "one",
+      "o'clock",
+      "five",
+      "miles",
+      "southeast",
+      "bound",
+      "at",
+      "five",
+      "thousand"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_002614_002947_AT:",
+      "lot",
+      "three",
+      "two",
+      "nine",
+      "proceed",
+      "to",
+      "oscar",
+      "kilo",
+      "golf"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "I-WAYPOINT",
+      "I-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_000964_001554_AT:",
+      "austrian",
+      "three",
+      "two",
+      "three",
+      "golf",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-1MfnP7_001226_001569_AT",
+    "tokens": [
+      "ryan",
+      "air",
+      "five",
+      "juliett",
+      "uniform",
+      "climb",
+      "to",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u13",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_005088_005450_AT:",
+      "lady",
+      "austrian",
+      "three",
+      "one",
+      "three",
+      "descend",
+      "four",
+      "thousand",
+      "feet",
+      "speed",
+      "one",
+      "eight",
+      "zero",
+      "knots"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "utt_028",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "csa",
+      "eight",
+      "zero",
+      "four",
+      "we",
+      "are",
+      "ready"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "I-TRIGGER"
+    ],
+    "intent": "INFORMATION",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_000956_001201_PI",
+    "tokens": [
+      "approach",
+      "good",
+      "morning",
+      "lufthansa",
+      "five",
+      "mike",
+      "echo"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_046",
+    "tokens": [
+      "cleared",
+      "to",
+      "land",
+      "runway",
+      "three",
+      "one",
+      "turkish",
+      "one",
+      "seven",
+      "six",
+      "seven"
+    ],
+    "labels": [
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_000682_001013_PI:",
+      "three",
+      "four",
+      "four",
+      "seven",
+      "five",
+      "bratislava",
+      "speed",
+      "bird",
+      "one",
+      "zero",
+      "nine"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-yZ7DOJ_004420_004616_AT",
+    "tokens": [
+      "yes",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0H4CW3_001764_002136_PI",
+    "tokens": [
+      "climbing",
+      "level",
+      "three",
+      "one",
+      "zero",
+      "cleared",
+      "to",
+      "direct",
+      "pemur",
+      "aero",
+      "flot",
+      "one",
+      "two",
+      "two"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-WAYPOINT",
+      "I-WAYPOINT",
+      "I-WAYPOINT",
+      "B-WAYPOINT",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_000000_000303_PI:",
+      "good",
+      "morning"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_003392_003686_PI:",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "csa",
+      "five",
+      "six"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_001",
+    "tokens": [
+      "easy",
+      "eight",
+      "two",
+      "eight",
+      "uniform",
+      "line",
+      "up",
+      "and",
+      "wait",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_002608_003064_PI:",
+      "kilo"
+    ],
+    "labels": [
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u12",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_004206_004438_PI:",
+      "minimum",
+      "clean",
+      "speed",
+      "csa",
+      "seven",
+      "two",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_031_AT:",
+      "spirit",
+      "nine",
+      "twenty",
+      "five",
+      "contact",
+      "departure",
+      "one",
+      "two",
+      "four",
+      "point",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-1MfnP7_000000_000602_AT",
+    "tokens": [
+      "austrian",
+      "three",
+      "one",
+      "six",
+      "romeo",
+      "continue",
+      "present",
+      "heading",
+      "for",
+      "spacing",
+      "and",
+      "contact",
+      "praha",
+      "one",
+      "two",
+      "seven",
+      "one",
+      "two",
+      "fi"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "I-STATUS",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_001_PI:",
+      "descending",
+      "four",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u51",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_021812_022079_AT:",
+      "beair",
+      "one",
+      "four",
+      "zero",
+      "intercept",
+      "localizer",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_000964_0054754_PI:",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "austrian",
+      "three",
+      "two",
+      "three",
+      "golf"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_001182_001492_PI:",
+      "thomson",
+      "one",
+      "zero",
+      "alfa",
+      "good",
+      "evening",
+      "flight",
+      "level",
+      "three",
+      "six"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0quPVg_000209_000631_AT",
+    "tokens": [
+      "ryan",
+      "air",
+      "nine",
+      "one",
+      "seven",
+      "three",
+      "contact",
+      "praha",
+      "one",
+      "three",
+      "four",
+      "decimal"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u17",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_008042_008587_AT:",
+      "turkish",
+      "one",
+      "five",
+      "two",
+      "three",
+      "contact",
+      "rhein",
+      "one",
+      "three",
+      "six",
+      "decimal",
+      "four",
+      "zero",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "u36",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_015862_016107_PI:",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "zero",
+      "zero",
+      "and",
+      "kilo",
+      "on",
+      "boar"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_ACCU-8pcV9U_001877_002453_AT:",
+      "contract",
+      "two",
+      "whisk",
+      "two",
+      "romeo",
+      "golf",
+      "praha",
+      "good",
+      "morning",
+      "radar",
+      "contact",
+      "proceed",
+      "to",
+      "lomki"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-bgFYjJ_000000_000377_AT:",
+      "german",
+      "wings",
+      "two",
+      "one",
+      "four",
+      "zero",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "utt_030",
+    "tokens": [
+      "line",
+      "up",
+      "one",
+      "three",
+      "csa",
+      "eight",
+      "zero",
+      "four"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_003557_004086_AT:",
+      "speed",
+      "bird",
+      "eight",
+      "five",
+      "for",
+      "climb",
+      "clearance",
+      "contact",
+      "praha",
+      "one",
+      "three",
+      "three",
+      "decimal",
+      "three",
+      "nine",
+      "zero",
+      "good",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u10",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_003219_003352_PI:",
+      "france",
+      "one",
+      "three",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_003",
+    "tokens": [
+      "easy",
+      "eight",
+      "two",
+      "eight",
+      "uniform",
+      "cleared",
+      "for",
+      "take",
+      "off",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u10",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_004742_004817_PI:",
+      "lufthansa",
+      "eight",
+      "mike",
+      "mi"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-Z6kA7G_000159_000484_AT",
+    "tokens": [
+      "malev",
+      "eight",
+      "two",
+      "four",
+      "turn",
+      "left",
+      "heading",
+      "two",
+      "seven",
+      "zero",
+      "vectoring",
+      "ils",
+      "two",
+      "four"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0CUxlz_000496_000897_PI",
+    "tokens": [
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "radio",
+      "descending",
+      "down",
+      "level",
+      "three",
+      "five",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "B-STATUS",
+      "I-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u27",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_012211_012351_PI:",
+      "maintaining",
+      "one",
+      "eight",
+      "zero",
+      "knots"
+    ],
+    "labels": [
+      "O",
+      "B-STATUS",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_001227_001556_AT:",
+      "oscar",
+      "kilo",
+      "echo",
+      "uniform",
+      "u"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_001970_002616_PI:",
+      "ok",
+      "six",
+      "zero",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-5B6FPZ_012163_012532_AT",
+    "tokens": [
+      "channex",
+      "eight",
+      "eight",
+      "papa",
+      "romeo",
+      "turn",
+      "left",
+      "direct",
+      "to",
+      "varik",
+      "own",
+      "navigation"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_005900_006225_AT:",
+      "swiss",
+      "four",
+      "six",
+      "zero",
+      "tango",
+      "tower",
+      "good",
+      "morning",
+      "continue",
+      "approach"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u39",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_018102_018242_PI:",
+      "descend",
+      "flight",
+      "level",
+      "eight",
+      "zero",
+      "beair",
+      "one",
+      "four"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "custom-03-PI",
+    "tokens": [
+      "left",
+      "to",
+      "one",
+      "zero",
+      "one",
+      "cleared",
+      "for",
+      "the",
+      "approach",
+      "american",
+      "two",
+      "five",
+      "two"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u50",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_021624_021792_PI:",
+      "one",
+      "sudanair",
+      "eight",
+      "five",
+      "zero",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "cusdialog_018_AT:",
+      "united",
+      "twenty",
+      "five",
+      "turn",
+      "right",
+      "heading",
+      "three",
+      "three",
+      "zero",
+      "decend",
+      "and",
+      "maintain",
+      "one",
+      "zero",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u30",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_013719_014018_AT:",
+      "air",
+      "france",
+      "one",
+      "three",
+      "two",
+      "turn",
+      "right",
+      "heading",
+      "two",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_001632_001735_PI:",
+      "oscar",
+      "kilo",
+      "hotel",
+      "uni"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_000000_000395_AT:",
+      "sky",
+      "shuttle",
+      "one",
+      "one",
+      "four",
+      "zero",
+      "now",
+      "descend",
+      "flight",
+      "level",
+      "three",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-2N9O4d_002193_002572_AT",
+    "tokens": [
+      "csa",
+      "nine",
+      "seven",
+      "nine",
+      "proceed",
+      "to",
+      "vlm",
+      "then",
+      "vlm",
+      "one",
+      "romeo",
+      "arrival"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-WAYPOINT",
+      "B-TEMPORAL_MODIFIER",
+      "B-ROUTE",
+      "I-ROUTE",
+      "I-ROUTE",
+      "I-ROUTE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0agmXf_000964_001554_PIAT",
+    "tokens": [
+      "austrian",
+      "three",
+      "two",
+      "three",
+      "golf",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "austrian",
+      "three",
+      "two",
+      "three",
+      "g"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_025",
+    "tokens": [
+      "air",
+      "malta",
+      "five",
+      "two",
+      "nine",
+      "ruzyne",
+      "tower",
+      "roger"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "O"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_047",
+    "tokens": [
+      "malev",
+      "eight",
+      "two",
+      "zero",
+      "runway",
+      "three",
+      "one",
+      "clear",
+      "to",
+      "land",
+      "wind",
+      "one",
+      "nine",
+      "zero",
+      "degrees"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u11",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_003802_004078_AT:",
+      "csa",
+      "seven",
+      "two",
+      "seven",
+      "reduce",
+      "to",
+      "minimum",
+      "clean",
+      "speed"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-SPEED",
+      "I-SPEED",
+      "I-SPEED"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0ScD9T_000738_001418_PIAT",
+    "tokens": [
+      "asterix",
+      "four",
+      "one",
+      "five",
+      "praha",
+      "hello",
+      "radar",
+      "contact",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "thank",
+      "you",
+      "asterix",
+      "four",
+      "five"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "O",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u43",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_019572_019668_PI:",
+      "say",
+      "again"
+    ],
+    "labels": [
+      "O",
+      "B-REQUEST",
+      "I-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_TWR-7SxoR3_000710_000948_PI:",
+      "clear",
+      "to",
+      "land",
+      "runway",
+      "three",
+      "one",
+      "donavia",
+      "three",
+      "zero",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-1P0mFp_000103_000309_AT:",
+      "ascot",
+      "six",
+      "six",
+      "three",
+      "nine",
+      "praha"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY"
+    ]
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_ACCU-4MNvaV_004639_004710_PI:",
+      "flight",
+      "level",
+      "three",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4R7fy_003595_004171_PIAT",
+    "tokens": [
+      "malev",
+      "eight",
+      "two",
+      "zero",
+      "descend",
+      "flight",
+      "level",
+      "eight",
+      "zero",
+      "flight",
+      "level",
+      "eight",
+      "zero",
+      "malev",
+      "eight",
+      "two",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-yrtgwJ_000393_000671_PI",
+    "tokens": [
+      "left",
+      "turn",
+      "to",
+      "venux",
+      "csa",
+      "three",
+      "delta",
+      "lima"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "B-WAYPOINT",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_039_AT:",
+      "contact",
+      "center",
+      "one",
+      "two",
+      "four",
+      "point",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "cusdialog_008_AT:",
+      "untied",
+      "fifty",
+      "three",
+      "thirteen",
+      "turn",
+      "right",
+      "heading",
+      "zero",
+      "nine",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-1DTI8r_002101_002780_AT",
+    "tokens": [
+      "lot",
+      "three",
+      "six",
+      "two",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "two",
+      "nine",
+      "zero",
+      "and",
+      "contact",
+      "praha",
+      "one",
+      "two",
+      "seven",
+      "one",
+      "two",
+      "five"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-CTR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_001605_002225_PI:",
+      "praha",
+      "polet",
+      "four",
+      "one",
+      "zero",
+      "six",
+      "good",
+      "morning",
+      "level",
+      "three",
+      "one",
+      "zero",
+      "to",
+      "holesov"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-WAYPOINT"
+    ]
+  },
+  {
+    "utterance_id": "u9",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_004174_004284_PI:",
+      "el",
+      "three",
+      "eight",
+      "zero",
+      "plea"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u14",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_005629_005703_PI:",
+      "descending",
+      "four"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u34",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_015281_015357_PI:",
+      "for",
+      "vlm"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_025_AT:",
+      "frontier",
+      "two",
+      "seventeen",
+      "turn",
+      "left",
+      "heading",
+      "two",
+      "one",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-BApTbN_002536_002966_AT",
+    "tokens": [
+      "lot",
+      "five",
+      "two",
+      "seven",
+      "continue",
+      "more",
+      "right",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_034",
+    "tokens": [
+      "papa",
+      "lima",
+      "ground",
+      "one",
+      "two",
+      "one",
+      "decimal",
+      "nine",
+      "csa",
+      "two",
+      "delta",
+      "lima"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-Z5nx1x_001404_001946_PIAT",
+    "tokens": [
+      "klm",
+      "three",
+      "five",
+      "one",
+      "turn",
+      "right",
+      "two",
+      "two",
+      "zero",
+      "turn",
+      "heading",
+      "two",
+      "two",
+      "zero",
+      "klm",
+      "three",
+      "five",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-1P0mFp_000377_000560_PI:",
+      "ascot",
+      "six",
+      "six",
+      "three",
+      "nine",
+      "go",
+      "ahead"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_000479_000630_PI:",
+      "descending",
+      "flight",
+      "level",
+      "three"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_034_PI:",
+      "taxi",
+      "to",
+      "two",
+      "six",
+      "left",
+      "via",
+      "bravo",
+      "delta",
+      "southwest",
+      "six",
+      "twenty",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "O",
+      "B-TAXIWAY",
+      "B-TAXIWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-FhEzLA_001169_001848_AT",
+    "tokens": [
+      "csa",
+      "eight",
+      "zero",
+      "five",
+      "descend",
+      "to",
+      "altitude",
+      "four",
+      "thousand",
+      "feet",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "cleared",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "UNKNOWN",
+    "speaker": "UNKNOWN",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_029",
+    "tokens": [
+      "csa",
+      "eight",
+      "zero",
+      "four",
+      "ruzyne",
+      "tower",
+      "line",
+      "up",
+      "runway",
+      "one",
+      "three"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-0agmXf_002600_003006_PI:",
+      "one",
+      "three",
+      "four",
+      "four",
+      "four",
+      "zero",
+      "sky",
+      "shuttle",
+      "one",
+      "one",
+      "four",
+      "zero",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_023_AT:",
+      "american",
+      "ninety",
+      "descend",
+      "and",
+      "maintain",
+      "five",
+      "thousand"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u44",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_019668_019900_AT:",
+      "confirm",
+      "established"
+    ],
+    "labels": [
+      "O",
+      "B-REQUEST",
+      "I-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-Z5nx1x_004970_005330_AT",
+    "tokens": [
+      "klm",
+      "three",
+      "five",
+      "one",
+      "turn",
+      "right",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u4",
+    "tokens": [
+      "cusdialog_035_AT:",
+      "hold",
+      "short",
+      "runway",
+      "two",
+      "six",
+      "left"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ]
+  },
+  {
+    "utterance_id": "u7",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_002890_003295_AT:",
+      "csa",
+      "eight",
+      "five",
+      "six",
+      "climb",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "uwb-atcc_TWR-3OaTZx_001639_002082_PI:",
+      "runway",
+      "three",
+      "one",
+      "clear",
+      "to",
+      "land",
+      "expediting",
+      "vacating",
+      "via",
+      "golf",
+      "csa"
+    ],
+    "labels": [
+      "O",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-TAXIWAY",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "cusdialog_041_AT:",
+      "united",
+      "two",
+      "eighty",
+      "turn",
+      "right",
+      "heading",
+      "zero",
+      "six",
+      "zero",
+      "vector",
+      "for",
+      "sequence"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS"
+    ]
+  },
+  {
+    "utterance_id": "u32",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_014559_015096_PI:",
+      "prague",
+      "radar",
+      "csa",
+      "two",
+      "eighty",
+      "seven",
+      "passing",
+      "level",
+      "two",
+      "zero",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-EDVk2L_002929_003335_PI",
+    "tokens": [
+      "turn",
+      "left",
+      "one",
+      "zero",
+      "degrees",
+      "descend",
+      "flight",
+      "level",
+      "one",
+      "three",
+      "zero",
+      "csa",
+      "three",
+      "zero",
+      "three"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_037",
+    "tokens": [
+      "ruzyne",
+      "tower",
+      "csa",
+      "two",
+      "mike",
+      "charlie",
+      "established",
+      "ils",
+      "one"
+    ],
+    "labels": [
+      "B-FACILITY",
+      "I-FACILITY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4V7px_001114_001188_PI",
+    "tokens": [
+      "csa",
+      "one",
+      "eight"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-A44k7Q_000579_000980_PI",
+    "tokens": [
+      "heading",
+      "one",
+      "five",
+      "zero",
+      "cleared",
+      "ils",
+      "one",
+      "three",
+      "sky",
+      "travel",
+      "six"
+    ],
+    "labels": [
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_002101_002780_AT:",
+      "lot",
+      "three",
+      "six",
+      "two",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "two",
+      "nine",
+      "zero",
+      "and",
+      "contact",
+      "praha",
+      "one",
+      "two",
+      "seven",
+      "one",
+      "two",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "u14",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_006697_007288_AT:",
+      "lufthansa",
+      "four",
+      "alfa",
+      "hotel",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "two",
+      "nine",
+      "zero",
+      "and",
+      "contact",
+      "praha",
+      "one",
+      "three",
+      "f"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-bN8wa8_000128_000669_AT",
+    "tokens": [
+      "csa",
+      "three",
+      "five",
+      "delta",
+      "descend",
+      "to",
+      "flight",
+      "level",
+      "one",
+      "three",
+      "zero",
+      "and",
+      "keep",
+      "higher",
+      "speed"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u11",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_005380_006168_AT:",
+      "jade",
+      "cargo",
+      "seven",
+      "four",
+      "four",
+      "three",
+      "now",
+      "climb",
+      "to",
+      "flight",
+      "level",
+      "three",
+      "four",
+      "zero",
+      "and",
+      "contact",
+      "praha",
+      "one",
+      "three",
+      "three",
+      "decimal",
+      "three",
+      "nine",
+      "zero",
+      "good",
+      "bye"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "O",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_000953_001244_PI:",
+      "seven",
+      "five",
+      "eight",
+      "on",
+      "heading",
+      "one",
+      "hundred"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_026_PI:",
+      "turning",
+      "left",
+      "heading",
+      "two",
+      "one",
+      "zero",
+      "frontier",
+      "two",
+      "seventeen"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "cusdialog_012_PI:",
+      "clear",
+      "for",
+      "takeoff",
+      "runway",
+      "one",
+      "three",
+      "right"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ]
+  },
+  {
+    "utterance_id": "utt_052",
+    "tokens": [
+      "csa",
+      "two",
+      "eight",
+      "whiskey",
+      "runway",
+      "three",
+      "one",
+      "cleared",
+      "for",
+      "takeoff",
+      "wind",
+      "two",
+      "one",
+      "zero",
+      "degrees",
+      "six",
+      "knots"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "ncusdialog_030r_PI:",
+      "cleared",
+      "to",
+      "land",
+      "runway",
+      "two",
+      "eight",
+      "left",
+      "alaska",
+      "twenty",
+      "nine"
+    ],
+    "labels": [
+      "O",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "cusdialog_002_AT:",
+      "american",
+      "three",
+      "five",
+      "three",
+      "heavy",
+      "turn",
+      "right",
+      "heading",
+      "zero",
+      "one",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_TWR-9Ht02x_000337_000457_PI",
+    "tokens": [
+      "six",
+      "zero",
+      "request",
+      "taxi"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "B-TRIGGER",
+      "I-TRIGGER"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-ewe0ni_000404_001062_AT",
+    "tokens": [
+      "csa",
+      "three",
+      "sierra",
+      "lima",
+      "descend",
+      "to",
+      "altitude",
+      "four",
+      "thousand",
+      "feet",
+      "qnh",
+      "one",
+      "zero",
+      "two",
+      "three",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "I-STATUS",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_024",
+    "tokens": [
+      "good",
+      "evening",
+      "air",
+      "malta",
+      "five",
+      "holding",
+      "short"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-STATUS",
+      "I-STATUS"
+    ],
+    "intent": "FIRST-CONTACT",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "utt_036",
+    "tokens": [
+      "clear",
+      "for",
+      "takeoff",
+      "runway",
+      "one",
+      "three",
+      "aero",
+      "flot",
+      "one",
+      "four",
+      "four",
+      "have",
+      "a",
+      "nice",
+      "day"
+    ],
+    "labels": [
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-6kjnmX_010225_010755_AT",
+    "tokens": [
+      "klm",
+      "five",
+      "five",
+      "tango",
+      "continue",
+      "right",
+      "heading",
+      "two",
+      "eight",
+      "zero",
+      "cleared",
+      "for",
+      "ils",
+      "approach",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "I-HEADING",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-APPROACH",
+      "I-APPROACH",
+      "I-APPROACH"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u2",
+    "tokens": [
+      "uwb-atcc_TWR-3OaTZx_000598_000707_PI:",
+      "one",
+      "two",
+      "one",
+      "decimal",
+      "ni"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "u10",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_004228_004332_PI:",
+      "three",
+      "nine",
+      "zero",
+      "speed",
+      "bird",
+      "eig"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "custom-01-PI",
+    "tokens": [
+      "three",
+      "thousand",
+      "delta",
+      "one",
+      "two",
+      "eight"
+    ],
+    "labels": [
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u41",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_018856_019153_PI:",
+      "present",
+      "heading",
+      "vectoring",
+      "three",
+      "one",
+      "csa",
+      "seven",
+      "two",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-HEADING",
+      "I-HEADING",
+      "B-STATUS",
+      "B-APPROACH",
+      "I-APPROACH",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "utt_041",
+    "tokens": [
+      "csa",
+      "seven",
+      "eight",
+      "eight",
+      "runway",
+      "one",
+      "three",
+      "cleared",
+      "for",
+      "takeoff",
+      "wind",
+      "zero",
+      "three",
+      "zero",
+      "degrees",
+      "express",
+      "arrival",
+      "three",
+      "miles"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "I-WIND",
+      "B-TEMPORAL_MODIFIER",
+      "B-TRAFFIC",
+      "I-TRAFFIC",
+      "I-TRAFFIC"
+    ],
+    "intent": "CLEARANCE",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u18",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_008721_009057_PI:",
+      "one",
+      "three",
+      "six",
+      "decimal",
+      "four",
+      "zero",
+      "five",
+      "turkish",
+      "one",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "uwb-atcc_ACCU-0CUxlz_000190_000379_AT",
+    "tokens": [
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "praha"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY"
+    ],
+    "intent": "INQUIRY",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "u33",
+    "tokens": [
+      "uwb-atcc_APP-NTAnvJ_015168_015246_PI:",
+      "three",
+      "zero"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u6",
+    "tokens": [
+      "uwb-atcc_ACCU-Aic6cJ_002289_002644_AT:",
+      "four",
+      "one",
+      "two",
+      "six",
+      "praha",
+      "good",
+      "day",
+      "radar",
+      "contact"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "utt_023",
+    "tokens": [
+      "german",
+      "wings",
+      "seven",
+      "papa",
+      "cleared",
+      "to",
+      "land",
+      "runway",
+      "three",
+      "one"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-CLEARANCE",
+      "I-CLEARANCE",
+      "I-CLEARANCE",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY"
+    ],
+    "intent": "READBACK",
+    "speaker": "PILOT",
+    "relations": []
+  },
+  {
+    "utterance_id": "uwb-atcc_APP-z4V7px_000469_000869_AT",
+    "tokens": [
+      "csa",
+      "one",
+      "eight",
+      "four",
+      "radar",
+      "radar",
+      "contact",
+      "climb",
+      "flight",
+      "level",
+      "one",
+      "four",
+      "zero"
+    ],
+    "labels": [
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "B-TRIGGER",
+      "I-TRIGGER",
+      "B-INSTRUCTION",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TRA",
+    "relations": []
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_TWR-7Ktg08_005478_005555_PI:",
+      "ruzyne",
+      "tower"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_000077_000244_PI:",
+      "request"
+    ],
+    "labels": [
+      "O",
+      "B-REQUEST"
+    ]
+  },
+  {
+    "utterance_id": "u8",
+    "tokens": [
+      "uwb-atcc_ACCU-1DTI8r_003384_003495_PI:",
+      "three",
+      "six",
+      "two"
+    ],
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "utterance_id": "utt_050",
+    "tokens": [
+      "hello",
+      "cimber",
+      "three",
+      "five",
+      "two",
+      "six",
+      "ruzyne",
+      "tower",
+      "roger",
+      "line",
+      "up",
+      "runway",
+      "three",
+      "one",
+      "and",
+      "wait"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY",
+      "I-FACILITY",
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-RUNWAY",
+      "I-RUNWAY",
+      "I-RUNWAY",
+      "O",
+      "O"
+    ],
+    "intent": "INSTRUCTION",
+    "speaker": "CONTROLLER-TWR",
+    "relations": []
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-1fA76t_000154_000605_AT:",
+      "speed",
+      "bird",
+      "one",
+      "zero",
+      "nine",
+      "contact",
+      "bratislava",
+      "one",
+      "three",
+      "four",
+      "decimal",
+      "four",
+      "seven",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "utterance_id": "u5",
+    "tokens": [
+      "cusdialog_032_PI:",
+      "over",
+      "to",
+      "departure",
+      "one",
+      "two",
+      "four",
+      "point",
+      "three",
+      "spirit",
+      "nine",
+      "twenty",
+      "five"
+    ],
+    "labels": [
+      "O",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION",
+      "B-FACILITY",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "I-FREQUENCY",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN"
+    ]
+  },
+  {
+    "utterance_id": "u3",
+    "tokens": [
+      "ncusdialog_038r_PI:",
+      "one",
+      "four",
+      "thousand",
+      "jetblue",
+      "seven"
+    ],
+    "labels": [
+      "O",
+      "B-ALTITUDE",
+      "I-ALTITUDE",
+      "I-ALTITUDE",
+      "B-INSTRUCTION",
+      "I-INSTRUCTION"
+    ]
+  },
+  {
+    "utterance_id": "u1",
+    "tokens": [
+      "uwb-atcc_ACCU-0CUxlz_000190_000379_AT:",
+      "lufthansa",
+      "seven",
+      "three",
+      "nine",
+      "praha"
+    ],
+    "labels": [
+      "O",
+      "B-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "I-CALLSIGN",
+      "B-FACILITY"
+    ]
+  }
+]

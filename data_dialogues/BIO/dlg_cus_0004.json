@@ -1,0 +1,201 @@
+{
+  "dialogue_id": "dlg_cus_0004",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_016_AT:",
+        "american",
+        "thirty",
+        "two",
+        "five",
+        "miles",
+        "from",
+        "PRIPT",
+        "maintain",
+        "three",
+        "thousand",
+        "til",
+        "established",
+        "cleared",
+        "ils",
+        "runway",
+        "one",
+        "three",
+        "approach"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-STATUS",
+        "I-STATUS",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CONDITION",
+        "I-CONDITION",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "B-APPROACH",
+        "I-APPROACH",
+        "I-APPROACH",
+        "I-APPROACH"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_017_PI:",
+        "four",
+        "thousand",
+        "til",
+        "established",
+        "cleared",
+        "ils",
+        "one",
+        "three",
+        "american",
+        "thirty",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CONDITION",
+        "I-CONDITION",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "B-APPROACH",
+        "I-APPROACH",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_018_AT:",
+        "united",
+        "twenty",
+        "five",
+        "turn",
+        "right",
+        "heading",
+        "three",
+        "three",
+        "zero",
+        "decend",
+        "and",
+        "maintain",
+        "one",
+        "zero",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_019_PI:",
+        "right",
+        "to",
+        "three",
+        "two",
+        "zero",
+        "down",
+        "to",
+        "one",
+        "zero",
+        "thousand",
+        "united",
+        "twenty",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-HEADING",
+        "I-HEADING",
+        "I-HEADING",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_020_AT:",
+        "speedbird",
+        "ten",
+        "climb",
+        "and",
+        "maintain",
+        "five",
+        "thousand"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "PI",
+      "tokens": [
+        "ncusdialog_020r_PI:",
+        "six",
+        "for",
+        "speedbird",
+        "ten"
+      ],
+      "tags": [
+        "O",
+        "B-ALTITUDE",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

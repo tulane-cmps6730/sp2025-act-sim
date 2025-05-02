@@ -1,0 +1,215 @@
+{
+  "dialogue_id": "dlg_0128",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_000000_000303_PI:",
+        "good",
+        "morning"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_000338_000548_PI:",
+        "two",
+        "five",
+        "zero",
+        "approaching",
+        "cerno"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-STATUS",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_000656_000924_AT:",
+        "contract",
+        "one",
+        "whiskey",
+        "alfa",
+        "praha",
+        "good",
+        "morning",
+        "radar",
+        "contact"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY",
+        "O",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_001124_001356_PI:",
+        "praha",
+        "good",
+        "morning",
+        "contract",
+        "two",
+        "lima",
+        "golf"
+      ],
+      "tags": [
+        "O",
+        "B-FACILITY",
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_001391_001812_PI:",
+        "information",
+        "november",
+        "and",
+        "we",
+        "fly",
+        "level",
+        "two",
+        "one",
+        "zero",
+        "inbound",
+        "dobel"
+      ],
+      "tags": [
+        "O",
+        "B-STATUS",
+        "I-STATUS",
+        "O",
+        "B-STATUS",
+        "I-STATUS",
+        "I-STATUS",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-STATUS",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_001877_002453_AT:",
+        "contract",
+        "two",
+        "whisk",
+        "two",
+        "romeo",
+        "golf",
+        "praha",
+        "good",
+        "morning",
+        "radar",
+        "contact",
+        "proceed",
+        "to",
+        "lomki"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY",
+        "O",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_002530_002637_AT:",
+        "six",
+        "romeo",
+        "arrival"
+      ],
+      "tags": [
+        "O",
+        "B-ROUTE",
+        "I-ROUTE",
+        "I-ROUTE"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_002747_003087_PI:",
+        "lomki",
+        "six",
+        "romeo",
+        "proceed",
+        "lomki",
+        "contract"
+      ],
+      "tags": [
+        "O",
+        "B-ROUTE",
+        "I-ROUTE",
+        "I-ROUTE",
+        "B-INSTRUCTION",
+        "B-WAYPOINT",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-8pcV9U_003126_003200_PI:",
+        "two",
+        "romeo",
+        "golf"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

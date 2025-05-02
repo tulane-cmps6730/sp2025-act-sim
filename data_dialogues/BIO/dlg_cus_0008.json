@@ -1,0 +1,147 @@
+{
+  "dialogue_id": "dlg_cus_0008",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_033_AT:",
+        "southwest",
+        "six",
+        "twenty",
+        "two",
+        "taxi",
+        "to",
+        "runway",
+        "two",
+        "six",
+        "left",
+        "via",
+        "bravo",
+        "charlie"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "O",
+        "B-TAXIWAY",
+        "B-TAXIWAY"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_034_PI:",
+        "taxi",
+        "to",
+        "two",
+        "six",
+        "left",
+        "via",
+        "bravo",
+        "delta",
+        "southwest",
+        "six",
+        "twenty",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "O",
+        "B-TAXIWAY",
+        "B-TAXIWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "ncusdialog_034r_PI:",
+        "two",
+        "six",
+        "left",
+        "via",
+        "bravo",
+        "delta",
+        "southwest",
+        "six",
+        "twenty",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "O",
+        "B-TAXIWAY",
+        "B-TAXIWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_035_AT:",
+        "hold",
+        "short",
+        "runway",
+        "two",
+        "six",
+        "left"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_036_PI:",
+        "holding",
+        "short",
+        "two",
+        "six",
+        "left"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY"
+      ]
+    }
+  ]
+}

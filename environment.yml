@@ -1,0 +1,16 @@
+name: atc-nlp-cuda
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.12
+  - pytorch-cuda=12.4
+  - torchaudio==2.5.1
+  - pytorch==2.5.1
+  - torchvision==0.20.1
+  - jupyter
+  - matplotlib
+  - scikit-learn
+  - transformers
+prefix: C:\Users\rdkel\miniconda3\envs\atc-nlp-cuda

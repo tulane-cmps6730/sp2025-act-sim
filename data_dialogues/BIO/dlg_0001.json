@@ -1,0 +1,135 @@
+{
+  "dialogue_id": "dlg_0001",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0CUxlz_000190_000379_AT:",
+        "lufthansa",
+        "seven",
+        "three",
+        "nine",
+        "praha"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0CUxlz_000496_000897_PI:",
+        "lufthansa",
+        "seven",
+        "three",
+        "nine",
+        "radio",
+        "descending",
+        "down",
+        "level",
+        "three",
+        "five",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0CUxlz_000944_001520_AT:",
+        "good",
+        "afternoon",
+        "lufthansa",
+        "seven",
+        "three",
+        "nine",
+        "praha",
+        "radar",
+        "contact",
+        "descend",
+        "flight",
+        "level",
+        "three",
+        "zero",
+        "zero",
+        "level",
+        "by",
+        "rapet"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CONDITION",
+        "I-CONDITION",
+        "B-WAYPOINT"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0CUxlz_001611_002050_PI:",
+        "lufthansa",
+        "seven",
+        "three",
+        "nine",
+        "descending",
+        "flight",
+        "level",
+        "three",
+        "zero",
+        "zero",
+        "level"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O"
+      ]
+    }
+  ]
+}

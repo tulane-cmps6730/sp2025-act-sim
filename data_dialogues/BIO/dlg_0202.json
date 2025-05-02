@@ -1,0 +1,147 @@
+{
+  "dialogue_id": "dlg_0202",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-bgFYjJ_000000_000377_AT:",
+        "german",
+        "wings",
+        "two",
+        "one",
+        "four",
+        "zero",
+        "climb",
+        "flight",
+        "level",
+        "three",
+        "four",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-bgFYjJ_000424_000680_PI:",
+        "german",
+        "wings",
+        "two",
+        "one",
+        "zero",
+        "climb",
+        "level",
+        "three",
+        "four",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-bgFYjJ_000743_001243_AT:",
+        "and",
+        "german",
+        "wings",
+        "two",
+        "one",
+        "four",
+        "zero",
+        "contact",
+        "praha",
+        "one",
+        "three",
+        "three",
+        "three",
+        "nine",
+        "zero",
+        "bye",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-bgFYjJ_001266_001655_PI:",
+        "one",
+        "three",
+        "three",
+        "three",
+        "nine",
+        "zero",
+        "german",
+        "wings",
+        "two",
+        "one",
+        "four",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

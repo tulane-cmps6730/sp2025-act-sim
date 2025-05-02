@@ -1,0 +1,161 @@
+{
+  "dialogue_id": "dlg_cus_0007",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_029_AT:",
+        "alaska",
+        "twenty",
+        "nine",
+        "runway",
+        "two",
+        "eight",
+        "right",
+        "cleared",
+        "to",
+        "land"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_030_PI:",
+        "cleared",
+        "to",
+        "land",
+        "runway",
+        "two",
+        "eight",
+        "left",
+        "alaska",
+        "twenty",
+        "nine"
+      ],
+      "tags": [
+        "O",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "ncusdialog_030r_PI:",
+        "cleared",
+        "to",
+        "land",
+        "runway",
+        "two",
+        "eight",
+        "left",
+        "alaska",
+        "twenty",
+        "nine"
+      ],
+      "tags": [
+        "O",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "cusdialog_031_AT:",
+        "spirit",
+        "nine",
+        "twenty",
+        "five",
+        "contact",
+        "departure",
+        "one",
+        "two",
+        "four",
+        "point",
+        "three"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "cusdialog_032_PI:",
+        "over",
+        "to",
+        "departure",
+        "one",
+        "two",
+        "four",
+        "point",
+        "three",
+        "spirit",
+        "nine",
+        "twenty",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

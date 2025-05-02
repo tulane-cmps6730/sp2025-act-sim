@@ -1,0 +1,537 @@
+{
+  "dialogue_id": "dlg_0019",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_000077_000244_PI:",
+        "request"
+      ],
+      "tags": [
+        "O",
+        "B-REQUEST"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_000393_000480_AT:",
+        "go"
+      ],
+      "tags": [
+        "O",
+        "B-TRIGGER"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_000509_000783_PI:",
+        "fedex",
+        "one",
+        "request",
+        "flight",
+        "level",
+        "three",
+        "six",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "B-REQUEST",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_000818_000902_AT:",
+        "standby"
+      ],
+      "tags": [
+        "O",
+        "B-TRIGGER"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_001560_001772_PI:",
+        "praha",
+        "lot",
+        "three",
+        "six",
+        "two",
+        "ready",
+        "for"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-TRIGGER",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_002101_002780_AT:",
+        "lot",
+        "three",
+        "six",
+        "two",
+        "descend",
+        "to",
+        "flight",
+        "level",
+        "two",
+        "nine",
+        "zero",
+        "and",
+        "contact",
+        "praha",
+        "one",
+        "two",
+        "seven",
+        "one",
+        "two",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_002866_003311_PI:",
+        "descending",
+        "two",
+        "nine",
+        "zero",
+        "and",
+        "contact",
+        "praga",
+        "praha",
+        "one",
+        "two",
+        "seven",
+        "one",
+        "two",
+        "five",
+        "lot"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_003384_003495_PI:",
+        "three",
+        "six",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_003557_004086_AT:",
+        "speed",
+        "bird",
+        "eight",
+        "five",
+        "for",
+        "climb",
+        "clearance",
+        "contact",
+        "praha",
+        "one",
+        "three",
+        "three",
+        "decimal",
+        "three",
+        "nine",
+        "zero",
+        "good",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O",
+        "O",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u10",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_004228_004332_PI:",
+        "three",
+        "nine",
+        "zero",
+        "speed",
+        "bird",
+        "eig"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u11",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_005380_006168_AT:",
+        "jade",
+        "cargo",
+        "seven",
+        "four",
+        "four",
+        "three",
+        "now",
+        "climb",
+        "to",
+        "flight",
+        "level",
+        "three",
+        "four",
+        "zero",
+        "and",
+        "contact",
+        "praha",
+        "one",
+        "three",
+        "three",
+        "decimal",
+        "three",
+        "nine",
+        "zero",
+        "good",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u12",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_006252_006411_PI:",
+        "three",
+        "three",
+        "nine",
+        "zero",
+        "flight",
+        "level",
+        "three"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u13",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_006433_006513_PI:",
+        "four",
+        "zero",
+        "bye",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u14",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_006697_007288_AT:",
+        "lufthansa",
+        "four",
+        "alfa",
+        "hotel",
+        "descend",
+        "to",
+        "flight",
+        "level",
+        "two",
+        "nine",
+        "zero",
+        "and",
+        "contact",
+        "praha",
+        "one",
+        "three",
+        "f"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "O",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u15",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_007288_007502_AT:",
+        "ive",
+        "decimal",
+        "one",
+        "three",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u16",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_007718_008006_PI:",
+        "four",
+        "alfa",
+        "hotel",
+        "level",
+        "two",
+        "nine",
+        "zero",
+        "one",
+        "three",
+        "five",
+        "one",
+        "three",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-STATUS",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u17",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_008042_008587_AT:",
+        "turkish",
+        "one",
+        "five",
+        "two",
+        "three",
+        "contact",
+        "rhein",
+        "one",
+        "three",
+        "six",
+        "decimal",
+        "four",
+        "zero",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY"
+      ]
+    },
+    {
+      "utt_id": "u18",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1DTI8r_008721_009057_PI:",
+        "one",
+        "three",
+        "six",
+        "decimal",
+        "four",
+        "zero",
+        "five",
+        "turkish",
+        "one",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

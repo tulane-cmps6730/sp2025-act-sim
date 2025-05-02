@@ -1,0 +1,56 @@
+[
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0002",
+        "text": "cusdialog_006_AT: delta one thirty decend and maintain flight level two seven zero\ncusdialog_007_PI: two eight zero for delta one thirty\ncusdialog_008_AT: untied fifty three thirteen turn right heading zero nine zero\ncusdialog_009_PI: zero nine zero fifty three thirteen\ncusdialog_010_AT: american twenty four ten climb and maintain one seven thousand\ncusdialog_010r_PI: up to one nine thousand for american twenty four ten"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0003",
+        "text": "cusdialog_011_AT: virgin eighteen heavy wind two one zero at five runway three one right clear for takeoff\ncusdialog_012_PI: clear for takeoff runway one three right\ncusdialog_013_AT: united nine thirty five runway four line up and wait traffic departing the parallel\ncusdialog_014_PI: line up and wait runway six united nine thirty five\ncusdialog_015_AT: southwest one twenty winds two six zero at one three runway two six left cleared to land caution wake turbulence\nncusdialog_015r_PI: cleared to land watch the wake runway one six one twenty"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0004",
+        "text": "cusdialog_016_AT: american thirty two five miles from PRIPT maintain three thousand til established cleared ils runway one three approach\ncusdialog_017_PI: four thousand til established cleared ils one three american thirty two\ncusdialog_018_AT: united twenty five turn right heading three three zero decend and maintain one zero thousand\ncusdialog_019_PI: right to three two zero down to one zero thousand united twenty five\ncusdialog_020_AT: speedbird ten climb and maintain five thousand\nncusdialog_020r_PI: six for speedbird ten"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0005",
+        "text": "cusdialog_021_AT: delta sixty five climb and maintain flight level three three zero\ncusdialog_022_PI: up to flight level three one zero delta sixty five\nncusdialog_022r_PI: up to three one zero delta sixty five\ncusdialog_023_AT: american ninety descend and maintain five thousand\ncusdialog_024_PI: descend five thousand american ninety"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0006",
+        "text": "cusdialog_025_AT: frontier two seventeen turn left heading two one zero\ncusdialog_026_PI: turning left heading two one zero frontier two seventeen\ncusdialog_027_AT: jetblue four sixty cross DANDY at and maintain one one thousand\ncusdialog_028_PI: cross DANDY maintain one zero thousand jetblue four sixty\nncusdialog_028r_PI: one zero thousand jetblue four sixty"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0007",
+        "text": "cusdialog_029_AT: alaska twenty nine runway two eight right cleared to land\ncusdialog_030_PI: cleared to land runway two eight left alaska twenty nine\nncusdialog_030r_PI: cleared to land runway two eight left alaska twenty nine\ncusdialog_031_AT: spirit nine twenty five contact departure one two four point three\ncusdialog_032_PI: over to departure one two four point three spirit nine twenty five"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0008",
+        "text": "cusdialog_033_AT: southwest six twenty two taxi to runway two six left via bravo charlie\ncusdialog_034_PI: taxi to two six left via bravo delta southwest six twenty two\nncusdialog_034r_PI: two six left via bravo delta southwest six twenty two\ncusdialog_035_AT: hold short runway two six left\ncusdialog_036_PI: holding short two six left"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0009",
+        "text": "cusdialog_037_AT: jetblue seven climb and maintain one six thousand\ncusdialog_038_PI: climb and maintain one four thousand jetblue seven\nncusdialog_038r_PI: one four thousand jetblue seven\ncusdialog_039_AT: contact center one two four point seven\ncusdialog_040_PI: center one two four point seven jetblue seven"
+      }
+    },
+    {
+      "data": {
+        "dialogue_id": "dlg_cus_0010",
+        "text": "cusdialog_041_AT: united two eighty turn right heading zero six zero vector for sequence\ncusdialog_042_PI: right to heading zero eight zero united two eighty\nncusdialog_042r_PI: heading zero eight zero united two eighty\ncusdialog_043_AT: descend and maintain four thousand\ncusdialog_044_PI: descending four thousand united two eighty"
+      }
+    }    
+]

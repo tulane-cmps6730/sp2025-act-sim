@@ -1,0 +1,211 @@
+{
+  "dialogue_id": "dlg_1909",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_000184_000825_AT:",
+        "french",
+        "navy",
+        "five",
+        "five",
+        "alfa",
+        "two",
+        "wind",
+        "one",
+        "nine",
+        "zero",
+        "degrees",
+        "five",
+        "knots",
+        "runway",
+        "three",
+        "one",
+        "clear",
+        "to",
+        "land"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_000850_001023_PI:",
+        "clear",
+        "to",
+        "land",
+        "one",
+        "three",
+        "five",
+        "alfa",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_001227_001556_AT:",
+        "oscar",
+        "kilo",
+        "echo",
+        "uniform",
+        "u"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_001632_001735_PI:",
+        "oscar",
+        "kilo",
+        "hotel",
+        "uni"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_001735_002289_PI:",
+        "uniform",
+        "u",
+        "ultralight",
+        "zephyr"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_002608_003064_PI:",
+        "kilo"
+      ],
+      "tags": [
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_003367_003864_AT:",
+        "oscar",
+        "kilo",
+        "hotel",
+        "uniform",
+        "u"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_005478_005555_PI:",
+        "ruzyne",
+        "tower"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-7Ktg08_005900_006225_AT:",
+        "swiss",
+        "four",
+        "six",
+        "zero",
+        "tango",
+        "tower",
+        "good",
+        "morning",
+        "continue",
+        "approach"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    }
+  ]
+}

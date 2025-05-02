@@ -1,0 +1,355 @@
+{
+  "dialogue_id": "dlg_0000",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_000000_000395_AT:",
+        "sky",
+        "shuttle",
+        "one",
+        "one",
+        "four",
+        "zero",
+        "now",
+        "descend",
+        "flight",
+        "level",
+        "three",
+        "three",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_000479_000630_PI:",
+        "descending",
+        "flight",
+        "level",
+        "three"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_000665_000738_PI:",
+        "k",
+        "oscar",
+        "zulu"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_000964_001554_AT:",
+        "austrian",
+        "three",
+        "two",
+        "three",
+        "golf",
+        "climb",
+        "flight",
+        "level",
+        "three",
+        "four",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u5",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_000964_0054754_PI:",
+        "level",
+        "three",
+        "four",
+        "zero",
+        "austrian",
+        "three",
+        "two",
+        "three",
+        "golf"
+      ],
+      "tags": [
+        "O",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    },
+    {
+      "utt_id": "u6",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_001730_002224_AT:",
+        "sky",
+        "shuttle",
+        "one",
+        "one",
+        "four",
+        "zero",
+        "contact",
+        "vienna",
+        "one",
+        "three",
+        "four",
+        "four",
+        "four",
+        "zero",
+        "bye",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-FACILITY",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u7",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_002600_003006_PI:",
+        "one",
+        "three",
+        "four",
+        "four",
+        "four",
+        "zero",
+        "sky",
+        "shuttle",
+        "one",
+        "one",
+        "four",
+        "zero",
+        "bye"
+      ],
+      "tags": [
+        "O",
+        "B-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "I-FREQUENCY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u8",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_003172_003449_PI:",
+        "praha",
+        "radar",
+        "nine",
+        "zero",
+        "whiskey",
+        "level",
+        "t"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u9",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_003544_004191_AT:",
+        "adriana",
+        "nine",
+        "three",
+        "whiskey",
+        "hello",
+        "radar",
+        "contact",
+        "proceed",
+        "to",
+        "mikov",
+        "squawk",
+        "one",
+        "four",
+        "six",
+        "zero",
+        "bye",
+        "bye",
+        "sorry"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "O",
+        "B-TRIGGER",
+        "I-TRIGGER",
+        "B-INSTRUCTION",
+        "I-INSTRUCTION",
+        "B-WAYPOINT",
+        "B-INSTRUCTION",
+        "B-SQUAWK",
+        "I-SQUAWK",
+        "I-SQUAWK",
+        "I-SQUAWK",
+        "O",
+        "O",
+        "O"
+      ]
+    },
+    {
+      "utt_id": "u10",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_005167_005527_AT:",
+        "lufthansa",
+        "two",
+        "five",
+        "five",
+        "zero",
+        "squawk",
+        "one",
+        "four",
+        "five",
+        "two"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-INSTRUCTION",
+        "B-SQUAWK",
+        "I-SQUAWK",
+        "I-SQUAWK",
+        "I-SQUAWK"
+      ]
+    },
+    {
+      "utt_id": "u11",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_005602_005744_PI:",
+        "squawking",
+        "one",
+        "four",
+        "fi"
+      ],
+      "tags": [
+        "O",
+        "B-INSTRUCTION",
+        "B-SQUAWK",
+        "I-SQUAWK",
+        "I-SQUAWK"
+      ]
+    },
+    {
+      "utt_id": "u12",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-0agmXf_005767_006058_PI:",
+        "two",
+        "lufthansa",
+        "five",
+        "two",
+        "five",
+        "five",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

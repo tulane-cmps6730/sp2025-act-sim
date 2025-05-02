@@ -1,0 +1,81 @@
+{
+  "dialogue_id": "dlg_1917",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_TWR-7SxoR3_000114_000686_AT:",
+        "donavia",
+        "three",
+        "zero",
+        "five",
+        "runway",
+        "three",
+        "one",
+        "clear",
+        "to",
+        "land",
+        "wind",
+        "three",
+        "three",
+        "zero",
+        "degrees",
+        "and",
+        "three",
+        "knots"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND",
+        "I-WIND"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_TWR-7SxoR3_000710_000948_PI:",
+        "clear",
+        "to",
+        "land",
+        "runway",
+        "three",
+        "one",
+        "donavia",
+        "three",
+        "zero",
+        "five"
+      ],
+      "tags": [
+        "O",
+        "B-CLEARANCE",
+        "I-CLEARANCE",
+        "I-CLEARANCE",
+        "B-RUNWAY",
+        "I-RUNWAY",
+        "I-RUNWAY",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN"
+      ]
+    }
+  ]
+}

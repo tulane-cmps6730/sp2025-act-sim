@@ -1,0 +1,95 @@
+{
+  "dialogue_id": "dlg_0028",
+  "utterances": [
+    {
+      "utt_id": "u1",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1P0mFp_000103_000309_AT:",
+        "ascot",
+        "six",
+        "six",
+        "three",
+        "nine",
+        "praha"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-FACILITY"
+      ]
+    },
+    {
+      "utt_id": "u2",
+      "speaker": "PI",
+      "tokens": [
+        "uwb-atcc_ACCU-1P0mFp_000377_000560_PI:",
+        "ascot",
+        "six",
+        "six",
+        "three",
+        "nine",
+        "go",
+        "ahead"
+      ],
+      "tags": [
+        "O",
+        "B-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "I-CALLSIGN",
+        "B-TRIGGER",
+        "I-TRIGGER"
+      ]
+    },
+    {
+      "utt_id": "u3",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1P0mFp_000583_000908_AT:",
+        "would",
+        "you",
+        "be",
+        "able",
+        "to",
+        "take",
+        "flight",
+        "level",
+        "three",
+        "six",
+        "zero"
+      ],
+      "tags": [
+        "O",
+        "B-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST",
+        "I-REQUEST",
+        "B-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE",
+        "I-ALTITUDE"
+      ]
+    },
+    {
+      "utt_id": "u4",
+      "speaker": "AT",
+      "tokens": [
+        "uwb-atcc_ACCU-1P0mFp_001069_001166_AT:",
+        "standby"
+      ],
+      "tags": [
+        "O",
+        "O"
+      ]
+    }
+  ]
+}

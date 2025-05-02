@@ -1,0 +1,1297 @@
+[
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "virgin eighteen heavy wind two one zero at five [INS] runway three one right [INS] clear for takeoff",
+    "readback": "clear for takeoff [RBK] runway one three right [RBK]",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "air france one three two reduce to [INS] minimum clean speed [INS]",
+    "readback": "[RBK] prague radar [RBK] csa two eighty seven passing level two zero seven",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0001",
+    "instruction": "good afternoon lufthansa seven three nine praha radar contact [INS] descend [INS] flight level three zero zero level by rapet",
+    "readback": "lufthansa seven three nine [RBK] descending [RBK] flight level three zero zero level",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "zero nine zero [INS] fifty three thirteen [INS]",
+    "readback": "[RBK] delta one thirty [RBK] decend and maintain flight level two seven zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0202",
+    "instruction": "and german wings two one four zero contact praha [INS] one three three three nine zero [INS] bye bye",
+    "readback": "[RBK] one three three three nine zero [RBK] german wings two one four zero",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "line up and wait [INS] runway six [INS] united nine thirty five",
+    "readback": "united nine thirty five [RBK] runway four [RBK] line up and wait traffic departing the parallel",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "sudanair eight five zero zero speed [INS] one six zero knots or more [INS] till four miles contact ruzyne tower one one eight decimal one good bye",
+    "readback": "present heading vectoring [RBK] three one [RBK] csa seven two seven",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] descend [INS] flight level one zero zero beair one four z",
+    "readback": "lady austrian three one three [RBK] descend [RBK] four thousand feet speed one eight zero knots",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "cleared to land runway two eight left [INS] alaska twenty nine [INS]",
+    "readback": "cleared to land runway two eight left alaska twenty nine",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "[INS] hold short [INS] runway two six left",
+    "readback": "[RBK] holding short [RBK] two six left",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "[INS] right to [INS] three two zero down to one zero thousand united twenty five",
+    "readback": "right to three two zero down to [RBK] one zero thousand [RBK] united twenty five",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "singapoore two six praha good morning radar contact descend flight level three zero zero [INS] reach level by [INS] rapet",
+    "readback": "two six descend continue to level three zero zero to [RBK] reach by [RBK] rapet",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "csa five seven three [INS] runway three one [INS] clear to land wind one nine zero degrees three knots expedite vacating via golf",
+    "readback": "[RBK] runway three one [RBK] clear to land expediting vacating via golf csa",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "alaska twenty nine [INS] runway two eight right [INS] cleared to land",
+    "readback": "cleared to land [RBK] runway two eight left [RBK] alaska twenty nine",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0006",
+    "instruction": "frontier two seventeen [INS] turn left [INS] heading two one zero",
+    "readback": "[RBK] turning left [RBK] heading two one zero frontier two seventeen",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0006",
+    "instruction": "cross DANDY [INS] maintain [INS] one zero thousand jetblue four sixty",
+    "readback": "turning left [RBK] heading two one zero [RBK] frontier two seventeen",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "[INS] csa nine seven seven [INS] contact ruzyne ground one two one decimal nine",
+    "readback": "csa nine seven seven contact ruzyne ground [RBK] one two one decimal nine [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "csa five seven three runway three one clear to land wind one nine zero degrees three knots expedite vacating via [INS] golf [INS]",
+    "readback": "runway three one clear to land expediting vacating via [RBK] golf [RBK] csa",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "delta two one two [INS] decend and maintain [INS] five thousand",
+    "readback": "[RBK] descending [RBK] four thousand",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "csa five seven three runway three one clear to land wind one nine zero degrees three knots [INS] expedite vacating via [INS] golf",
+    "readback": "runway three one clear to land [RBK] expediting vacating via [RBK] golf csa",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0009",
+    "instruction": "climb and maintain [INS] one four thousand [INS] jetblue seven",
+    "readback": "contact center [RBK] one two four point seven [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0000",
+    "instruction": "sky shuttle one one four zero contact vienna [INS] one three four four four zero [INS] bye bye",
+    "readback": "[RBK] one three four four four zero [RBK] sky shuttle one one four zero bye",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "lady austrian three one three descend four thousand feet [INS] speed one eight zero knots [INS]",
+    "readback": "sand feet [RBK] speed one eight zero knots [RBK] lady austrian three one three",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "buerou one four zero [INS] reduce speed [INS] two zero zero knots",
+    "readback": "[RBK] reduce [RBK] two zero zero knots bu",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "united two eighty turn right [INS] heading zero six zero [INS] vector for sequence",
+    "readback": "[RBK] heading zero eight zero [RBK] united two eighty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "speed one sixty till four and ruzyne tower [INS] one one eight decimal one [INS] good bye",
+    "readback": "sixty till four and [RBK] eighteen [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1909",
+    "instruction": "[INS] clear to land [INS] one three five alfa two",
+    "readback": "clear to land one three [RBK] five alfa two [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero [INS] descend [INS] flight level eight zero",
+    "readback": "sudanair eight five zero zero [RBK] descend [RBK] flight level six zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two [INS] taxi to [INS] runway two six left via bravo charlie",
+    "readback": "[RBK] taxi to [RBK] two six left via bravo delta southwest six twenty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero descend [INS] flight level one zero zero [INS]",
+    "readback": "descend [RBK] flight level one zero zero [RBK] beair one four z",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "jade cargo seven four four three [INS] now climb [INS] to flight level three four zero and contact praha one three three decimal three nine zero good bye",
+    "readback": "[RBK] fedex one [RBK] request flight level three six zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "[INS] delta one thirty [INS] decend and maintain flight level two seven zero",
+    "readback": "up to one nine thousand for [RBK] american twenty four ten [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "delta two one two decend and maintain [INS] five thousand [INS]",
+    "readback": "climb to [RBK] two two zero [RBK] southwest five one one",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "lot three six two [INS] descend to [INS] flight level two nine zero and contact praha one two seven one two five",
+    "readback": "[RBK] descending [RBK] two nine zero and contact praga praha one two seven one two five lot",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lufthansa zero three tango praha [INS] radar contact [INS] descend flight level two nine zero",
+    "readback": "[RBK] to reach by [RBK] abrax",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero descend [INS] flight level eight zero [INS]",
+    "readback": "descend [RBK] flight level eight zero [RBK] beair one four",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "descending two nine zero and [INS] contact [INS] praga praha one two seven one two five lot",
+    "readback": "jade cargo seven four four three now climb to flight level three four zero and contact praha [RBK] one three three decimal three nine [RBK] zero good bye",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "southwest one twenty winds two six zero at one three runway two six left [INS] cleared to land [INS] caution wake turbulence",
+    "readback": "virgin eighteen heavy wind two one zero at five runway three one right [RBK] clear for takeoff [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "delta two one two [INS] decend and maintain [INS] five thousand",
+    "readback": "american three five three heavy [RBK] turn right [RBK] heading zero one zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0001",
+    "instruction": "lufthansa seven three nine radio descending down [INS] level three five zero [INS]",
+    "readback": "good afternoon [RBK] lufthansa seven three nine [RBK] praha radar contact descend flight level three zero zero level by rapet",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "united two eighty turn right [INS] heading zero six zero [INS] vector for sequence",
+    "readback": "right to [RBK] heading zero eight zero [RBK] united two eighty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "singapoore two six praha good morning radar contact descend flight level three zero zero reach level by [INS] rapet [INS]",
+    "readback": "two six descend continue to level three zero zero to reach by [RBK] rapet [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lot three two nine proceed to [INS] oscar kilo golf [INS]",
+    "readback": "lufthansa zero three tango praha radar contact descend [RBK] flight level two nine zero [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lot three two nine [INS] proceed to [INS] oscar kilo golf",
+    "readback": "descend flight level two nine zero to reach by abrax [RBK] lufthansa zero three tango [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "taxi to two six left via bravo delta [INS] southwest six twenty two [INS]",
+    "readback": "[RBK] southwest six twenty two [RBK] taxi to runway two six left via bravo charlie",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa two eight seven [INS] praha radar [INS] radar contact descend flight level one zero zero",
+    "readback": "roger [RBK] maintain [RBK] one eighty",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0000",
+    "instruction": "level three four zero [INS] austrian three two three golf [INS]",
+    "readback": "praha radar [RBK] nine zero whiskey [RBK] level t",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1917",
+    "instruction": "donavia three zero five [INS] runway three one [INS] clear to land wind three three zero degrees and three knots",
+    "readback": "clear to land [RBK] runway three one [RBK] donavia three zero five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "[INS] csa five seven three [INS] runway three one clear to land wind one nine zero degrees three knots expedite vacating via golf",
+    "readback": "csa nine seven seven [RBK] contact [RBK] ruzyne ground one two one decimal nine",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "hold short [INS] runway two six left [INS]",
+    "readback": "holding short [RBK] two six left [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0000",
+    "instruction": "descending [INS] flight level three [INS]",
+    "readback": "praha radar [RBK] nine zero whiskey [RBK] level t",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lufthansa zero three tango praha radar contact descend [INS] flight level two nine zero [INS]",
+    "readback": "descend [RBK] flight level two nine zero [RBK] to reach by abrax lufthansa zero three tango",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "four thousand [INS] clear ils [INS]",
+    "readback": "[RBK] csa two eight seven [RBK] praha radar radar contact descend flight level one zero zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0000",
+    "instruction": "lufthansa two five five zero squawk [INS] one four five two [INS]",
+    "readback": "squawking [RBK] one four fi [RBK]",
+    "label": "partial_readback",
+    "label_id": 1
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "jade cargo seven four four three now climb to flight level three four zero and contact praha [INS] one three three decimal three nine [INS] zero good bye",
+    "readback": "[RBK] three three nine zero [RBK] flight level three",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0006",
+    "instruction": "frontier two seventeen [INS] turn left [INS] heading two one zero",
+    "readback": "jetblue four sixty cross DANDY [RBK] at and maintain [RBK] one one thousand",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1857",
+    "instruction": "csa five seven three runway three one clear to land [INS] wind one nine zero degrees three knots [INS] expedite vacating via golf",
+    "readback": "[RBK] csa nine [RBK] sev",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0009",
+    "instruction": "jetblue seven [INS] climb and maintain [INS] one six thousand",
+    "readback": "[RBK] climb and maintain [RBK] one four thousand jetblue seven",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "delta sixty five [INS] climb and maintain [INS] flight level three three zero",
+    "readback": "[RBK] up to [RBK] three one zero delta sixty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0006",
+    "instruction": "jetblue four sixty cross DANDY at and maintain [INS] one one thousand [INS]",
+    "readback": "[RBK] one zero thousand [RBK] jetblue four sixty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "virgin eighteen heavy wind two one zero at five [INS] runway three one right [INS] clear for takeoff",
+    "readback": "line up and wait runway six [RBK] united nine thirty five [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "two six left via bravo [INS] delta [INS] southwest six twenty two",
+    "readback": "two six left via [RBK] bravo [RBK] delta southwest six twenty two",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] sudanair eight five zero zero [INS]",
+    "readback": "[RBK] air france one three eight two [RBK] turn right heading two seven zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "united nine thirty five [INS] runway four [INS] line up and wait traffic departing the parallel",
+    "readback": "line up and wait [RBK] runway six [RBK] united nine thirty five",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "virgin eighteen heavy wind two one zero at five runway three one right [INS] clear for takeoff [INS]",
+    "readback": "[RBK] clear for takeoff [RBK] runway one three right",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "speed one sixty [INS] till four [INS] and ruzyne tower one one eight decimal one good bye",
+    "readback": "sixty [RBK] till four [RBK] and eighteen",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero [INS] intercept localizer [INS] runway three one",
+    "readback": "[RBK] intercept localizer [RBK] runway three one beair one four",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0128",
+    "instruction": "information november and we fly level two one zero inbound [INS] dobel [INS]",
+    "readback": "[RBK] contract one whiskey alfa [RBK] praha good morning radar contact",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa seven two seven continue present heading vectoring [INS] ils approach runway three one [INS]",
+    "readback": "[RBK] three one three [RBK] cleared ils approach runway three one",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "united twenty five [INS] turn right [INS] heading three three zero decend and maintain one zero thousand",
+    "readback": "[RBK] right to [RBK] three two zero down to one zero thousand united twenty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa seven two seven continue [INS] present heading [INS] vectoring ils approach runway three one",
+    "readback": "[RBK] present heading [RBK] vectoring three one csa seven two seven",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "to reach by [INS] abrax [INS]",
+    "readback": "descend flight level two nine zero to reach by [RBK] abrax [RBK] lufthansa zero three tango",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "lot three six two descend to [INS] flight level two nine zero [INS] and contact praha one two seven one two five",
+    "readback": "descending [RBK] two nine zero [RBK] and contact praga praha one two seven one two five lot",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "delta sixty five climb and maintain [INS] flight level three three zero [INS]",
+    "readback": "up to [RBK] flight level three one zero [RBK] delta sixty five",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0009",
+    "instruction": "jetblue seven climb and maintain [INS] one six thousand [INS]",
+    "readback": "[RBK] one four thousand [RBK] jetblue seven",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "three one three [INS] cleared ils approach [INS] runway three one",
+    "readback": "[RBK] cleared ils [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1909",
+    "instruction": "french navy five five alfa two wind one nine zero degrees five knots [INS] runway three one [INS] clear to land",
+    "readback": "clear to land [RBK] one three [RBK] five alfa two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0000",
+    "instruction": "sky shuttle one one four zero now descend [INS] flight level three three zero [INS]",
+    "readback": "descending [RBK] flight level three [RBK]",
+    "label": "partial_readback",
+    "label_id": 1
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "american twenty four ten climb and maintain [INS] one seven thousand [INS]",
+    "readback": "up to [RBK] one nine thousand [RBK] for american twenty four ten",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "american three five three heavy turn right [INS] heading zero one zero [INS]",
+    "readback": "right to [RBK] one zero zero [RBK] for american three five three",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0009",
+    "instruction": "center [INS] one two four point seven [INS] jetblue seven",
+    "readback": "one four thousand [RBK] jetblue seven [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "[INS] to reach by [INS] abrax",
+    "readback": "descend flight level two nine zero [RBK] to reach by [RBK] abrax lufthansa zero three tango",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "[INS] delta sixty five [INS] climb and maintain flight level three three zero",
+    "readback": "[RBK] up to [RBK] flight level three one zero delta sixty five",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "southwest one twenty winds two six zero at one three [INS] runway two six left [INS] cleared to land caution wake turbulence",
+    "readback": "cleared to land watch the wake [RBK] runway one six [RBK] one twenty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] beair one four zero [INS] intercept localizer runway three one",
+    "readback": "[RBK] three one three [RBK] are you able to fly higher than one eight zero knots",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "singapoore two six praha good morning radar contact descend [INS] flight level three zero zero [INS] reach level by rapet",
+    "readback": "singapoore two six praha good morning radar contact [RBK] descend [RBK] flight level three zero zero reach level by rapet",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1909",
+    "instruction": "french navy five five alfa two wind one nine zero degrees five knots [INS] runway three one [INS] clear to land",
+    "readback": "clear to land one three [RBK] five alfa two [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] speed [INS] one sixty till four and ruzyne tower one one eight decimal one good bye",
+    "readback": "three zero [RBK] air france [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa seven two seven continue present heading vectoring [INS] ils approach runway three one [INS]",
+    "readback": "sudanair eight five zero zero [RBK] descend [RBK] four thousand feet qnh one zero two three cleared ils approach runway three one",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "over to [INS] departure [INS] one two four point three spirit nine twenty five",
+    "readback": "[RBK] spirit nine twenty five [RBK] contact departure one two four point three",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "descend and maintain [INS] four thousand [INS]",
+    "readback": "descending [RBK] four thousand [RBK] united two eighty",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "[INS] two six [INS] descend continue to level three zero zero to reach by rapet",
+    "readback": "singapoore two six praha good morning [RBK] radar contact [RBK] descend flight level three zero zero reach level by rapet",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to runway two six left via [INS] bravo [INS] charlie",
+    "readback": "two six left via [RBK] bravo [RBK] delta southwest six twenty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "delta sixty five [INS] climb and maintain [INS] flight level three three zero",
+    "readback": "[RBK] up to [RBK] flight level three one zero delta sixty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero [INS] intercept localizer [INS] runway three one",
+    "readback": "[RBK] three zero [RBK] air france",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0174",
+    "instruction": "csa eight five six climb [INS] flight level three four zero [INS]",
+    "readback": "climb [RBK] flight level three four zero [RBK] csa five six",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to runway two six left via bravo [INS] charlie [INS]",
+    "readback": "two six left via bravo [RBK] delta [RBK] southwest six twenty two",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "descend [INS] five thousand [INS] american ninety",
+    "readback": "descend five thousand [RBK] american ninety [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "speed [INS] one sixty [INS] till four and ruzyne tower one one eight decimal one good bye",
+    "readback": "[RBK] sixty [RBK] till four and eighteen",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "american thirty two five miles from PRIPT maintain [INS] three thousand [INS] til established cleared ils runway one three approach",
+    "readback": "[RBK] four thousand [RBK] til established cleared ils one three american thirty two",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "alaska twenty nine runway two eight right [INS] cleared to land [INS]",
+    "readback": "[RBK] cleared to land [RBK] runway two eight left alaska twenty nine",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "united twenty five turn right heading three three zero decend and maintain [INS] one zero thousand [INS]",
+    "readback": "right to three two zero down to [RBK] one zero thousand [RBK] united twenty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "climb to [INS] two two zero [INS] southwest five one one",
+    "readback": "descending [RBK] four thousand [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "turkish one five two three contact rhein [INS] one three six decimal four zero five [INS]",
+    "readback": "[RBK] one three six decimal four zero [RBK] five turkish one five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to [INS] runway two six left [INS] via bravo charlie",
+    "readback": "[RBK] two six left [RBK] via bravo delta southwest six twenty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "[INS] holding short [INS] two six left",
+    "readback": "two six left via [RBK] bravo [RBK] delta southwest six twenty two",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "american ninety [INS] descend and maintain [INS] five thousand",
+    "readback": "[RBK] descend [RBK] five thousand american ninety",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "american thirty two five miles from [INS] PRIPT [INS] maintain three thousand til established cleared ils runway one three approach",
+    "readback": "right to three two zero down to one zero thousand [RBK] united twenty five [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "sudanair eight five zero zero descend four thousand feet qnh one zero two three [INS] cleared ils approach [INS] runway three one",
+    "readback": "four thousand [RBK] clear ils [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero [INS] descend [INS] flight level one zero zero",
+    "readback": "[RBK] descend [RBK] flight level one zero zero beair one four z",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1917",
+    "instruction": "[INS] donavia three zero five [INS] runway three one clear to land wind three three zero degrees and three knots",
+    "readback": "clear to land [RBK] runway three one [RBK] donavia three zero five",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "right to heading zero eight zero [INS] united two eighty [INS]",
+    "readback": "united two eighty turn right heading zero six zero [RBK] vector for sequence [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0128",
+    "instruction": "[INS] six romeo arrival [INS]",
+    "readback": "[RBK] lomki six romeo [RBK] proceed lomki contract",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0174",
+    "instruction": "lufthansa seven five eight out of [INS] two eight zero [INS] climbing three ten",
+    "readback": "praha polet four one zero six good morning [RBK] level [RBK] three one zero to holesov",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "hold short [INS] runway two six left [INS]",
+    "readback": "southwest six twenty two taxi to runway two six left via [RBK] bravo [RBK] charlie",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to runway two six left via bravo [INS] charlie [INS]",
+    "readback": "taxi to two six left via bravo [RBK] delta [RBK] southwest six twenty two",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "southwest five one one [INS] climb and maintain [INS] flight level two one zero",
+    "readback": "[RBK] climb to [RBK] two two zero southwest five one one",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "speedbird ten climb and maintain [INS] five thousand [INS]",
+    "readback": "[RBK] six [RBK] for speedbird ten",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_1917",
+    "instruction": "donavia three zero five runway three one [INS] clear to land [INS] wind three three zero degrees and three knots",
+    "readback": "[RBK] clear to land [RBK] runway three one donavia three zero five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1917",
+    "instruction": "donavia three zero five runway three one clear to land wind three three zero degrees and three knots",
+    "readback": "donavia three zero five [RBK] runway three one [RBK] clear to land wind three three zero degrees and three knots",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "climb to two two zero [INS] southwest five one one [INS]",
+    "readback": "climb to [RBK] two two zero [RBK] southwest five one one",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "american thirty two five miles from PRIPT maintain three thousand [INS] til established [INS] cleared ils runway one three approach",
+    "readback": "four thousand [RBK] til established [RBK] cleared ils one three american thirty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] eighteen one [INS] lufthansa two hotel tango bye",
+    "readback": "yes [RBK] fully established [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "american ninety descend and maintain [INS] five thousand [INS]",
+    "readback": "descend [RBK] five thousand [RBK] american ninety",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "united twenty five [INS] turn right [INS] heading three three zero decend and maintain one zero thousand",
+    "readback": "american thirty two five miles from PRIPT maintain [RBK] three thousand [RBK] til established cleared ils runway one three approach",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "two six descend continue to [INS] level three zero zero [INS] to reach by rapet",
+    "readback": "singapoore two six praha good morning radar contact descend [RBK] flight level three zero zero [RBK] reach level by rapet",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "southwest one twenty winds two six zero at one three runway two six left [INS] cleared to land [INS] caution wake turbulence",
+    "readback": "[RBK] cleared to land [RBK] watch the wake runway one six one twenty",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "up to three one zero [INS] delta sixty five [INS]",
+    "readback": "up to flight level three one zero [RBK] delta sixty five [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] intercept localizer [INS] runway three one beair one four",
+    "readback": "beair one four zero intercept localizer [RBK] runway three one [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "delta two one two decend and maintain [INS] five thousand [INS]",
+    "readback": "descending [RBK] four thousand [RBK]",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0000",
+    "instruction": "right to one zero zero for [INS] american three five three [INS]",
+    "readback": "climb to [RBK] two two zero [RBK] southwest five one one",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "american thirty two five miles from PRIPT maintain three thousand til established cleared ils [INS] runway one three approach [INS]",
+    "readback": "six for [RBK] speedbird ten [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "lufthansa two hotel tango contact ru ruzyne tower [INS] one one eight decimal one [INS] good bye",
+    "readback": "[RBK] eighteen one [RBK] lufthansa two hotel tango bye",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "jade cargo seven four four three now climb to [INS] flight level three four zero [INS] and contact praha one three three decimal three nine zero good bye",
+    "readback": "three three nine zero [RBK] flight level three [RBK]",
+    "label": "partial_readback",
+    "label_id": 1
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to runway two six left via [INS] bravo [INS] charlie",
+    "readback": "taxi to two six left via [RBK] bravo [RBK] delta southwest six twenty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] present heading [INS] vectoring three one csa seven two seven",
+    "readback": "[RBK] csa seven two seven [RBK] reduce to minimum clean speed",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero intercept localizer [INS] runway three one [INS]",
+    "readback": "intercept localizer [RBK] runway three one [RBK] beair one four",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "taxi to two six left via [INS] bravo [INS] delta southwest six twenty two",
+    "readback": "southwest six twenty two [RBK] taxi to [RBK] runway two six left via bravo charlie",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "descending four thousand [INS] united two eighty [INS]",
+    "readback": "united two eighty [RBK] turn right [RBK] heading zero six zero vector for sequence",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "speed bird eight five for climb clearance contact praha [INS] one three three decimal three nine zero [INS] good bye",
+    "readback": "[RBK] three nine zero [RBK] speed bird eig",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] sand feet [INS] speed one eight zero knots lady austrian three one three",
+    "readback": "sudanair eight five zero zero speed one six zero knots or more till four miles contact [RBK] ruzyne tower [RBK] one one eight decimal one good bye",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "southwest six twenty two taxi to [INS] runway two six left [INS] via bravo charlie",
+    "readback": "taxi to [RBK] two six left [RBK] via bravo delta southwest six twenty two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa two eight seven praha radar radar contact [INS] descend [INS] flight level one zero zero",
+    "readback": "[RBK] descend [RBK] flight level one zero zero and kilo on boar",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "american thirty two five miles from PRIPT maintain [INS] three thousand [INS] til established cleared ils runway one three approach",
+    "readback": "four thousand [RBK] til established [RBK] cleared ils one three american thirty two",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1909",
+    "instruction": "french navy five five alfa two wind one nine zero degrees five knots runway three one clear to land",
+    "readback": "[RBK] clear to land [RBK] one three five alfa two",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0005",
+    "instruction": "american ninety [INS] descend and maintain [INS] five thousand",
+    "readback": "up to [RBK] three one zero [RBK] delta sixty five",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0010",
+    "instruction": "[INS] descend and maintain [INS] four thousand",
+    "readback": "[RBK] descending [RBK] four thousand united two eighty",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "delta one thirty decend and maintain [INS] flight level two seven zero [INS]",
+    "readback": "[RBK] two eight zero [RBK] for delta one thirty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lufthansa eight mike m [INS] praha [INS] radar contact climb flight level three two zero",
+    "readback": "[RBK] descend [RBK] flight level two nine zero to reach by abrax lufthansa zero three tango",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "lufthansa four alfa hotel descend to flight level two nine zero and contact praha [INS] one three [INS] f",
+    "readback": "four alfa hotel level two nine zero [RBK] one three five one three five [RBK]",
+    "label": "partial_readback",
+    "label_id": 1
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "air france one three two turn right [INS] heading two three zero [INS]",
+    "readback": "[RBK] three zero [RBK] air france",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_0202",
+    "instruction": "german wings two one zero [INS] climb [INS] level three four zero",
+    "readback": "one three three three nine zero [RBK] german wings two one four zero [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "one [INS] sudanair eight five zero zero [INS]",
+    "readback": "csa two eight seven [RBK] praha radar [RBK] radar contact descend flight level one zero zero",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "present heading vectoring three one [INS] csa seven two seven [INS]",
+    "readback": "intercept localizer runway three one [RBK] beair one four [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0075",
+    "instruction": "lufthansa zero three tango [INS] praha [INS] radar contact descend flight level two nine zero",
+    "readback": "praha good afternoon [RBK] lufthansa eight mike [RBK] m climbing level two eight zero inbound tom",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] france one three two [INS]",
+    "readback": "intercept localizer runway three one [RBK] beair one four [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1886",
+    "instruction": "wizz air four nine one [INS] stop at holding point [INS] two more landings",
+    "readback": "[RBK] hold the holding point [RBK] and we",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "alaska twenty nine [INS] runway two eight right [INS] cleared to land",
+    "readback": "cleared to land [RBK] runway two eight left [RBK] alaska twenty nine",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0006",
+    "instruction": "jetblue four sixty cross DANDY at and maintain [INS] one one thousand [INS]",
+    "readback": "cross DANDY maintain [RBK] one zero thousand [RBK] jetblue four sixty",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "one three six decimal four zero [INS] five turkish one five [INS]",
+    "readback": "lufthansa four alfa hotel descend to flight level two nine zero and [RBK] contact [RBK] praha one three f",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "[INS] two six left [INS] via bravo delta southwest six twenty two",
+    "readback": "taxi to two six left via bravo delta [RBK] southwest six twenty two [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0009",
+    "instruction": "contact [INS] center [INS] one two four point seven",
+    "readback": "contact center [RBK] one two four point seven [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa seven two seven continue present heading [INS] vectoring [INS] ils approach runway three one",
+    "readback": "present heading [RBK] vectoring [RBK] three one csa seven two seven",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "lady austrian three one three [INS] descend [INS] four thousand feet speed one eight zero knots",
+    "readback": "[RBK] descending [RBK] four",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0007",
+    "instruction": "spirit nine twenty five contact departure [INS] one two four point three [INS]",
+    "readback": "over to departure [RBK] one two four point three [RBK] spirit nine twenty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "lufthansa four alfa hotel descend to [INS] flight level two nine zero [INS] and contact praha one three f",
+    "readback": "four alfa hotel level [RBK] two nine zero [RBK] one three five one three five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_0174",
+    "instruction": "csa eight five six [INS] climb [INS] flight level three four zero",
+    "readback": "[RBK] climb [RBK] flight level three four zero csa five six",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0003",
+    "instruction": "united nine thirty five runway four [INS] line up and wait [INS] traffic departing the parallel",
+    "readback": "[RBK] line up and wait [RBK] runway six united nine thirty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "[INS] descend [INS] flight level eight zero beair one four",
+    "readback": "[RBK] buerou one four zero [RBK] reduce speed two zero zero knots",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "united twenty five turn right [INS] heading three three zero [INS] decend and maintain one zero thousand",
+    "readback": "right to [RBK] three two zero [RBK] down to one zero thousand united twenty five",
+    "label": "incorrect_readback",
+    "label_id": 2
+  },
+  {
+    "dlg_id": "dlg_cus_0004",
+    "instruction": "united twenty five turn right heading three three zero [INS] decend and maintain [INS] one zero thousand",
+    "readback": "right to three two zero [RBK] down to [RBK] one zero thousand united twenty five",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "csa seven two seven continue present heading vectoring [INS] ils approach runway three one [INS]",
+    "readback": "present heading vectoring [RBK] three one [RBK] csa seven two seven",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "[INS] delta one thirty [INS] decend and maintain flight level two seven zero",
+    "readback": "[RBK] zero nine zero [RBK] fifty three thirteen",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "[INS] jade cargo seven four four three [INS] now climb to flight level three four zero and contact praha one three three decimal three nine zero good bye",
+    "readback": "speed bird eight five for climb clearance contact [RBK] praha [RBK] one three three decimal three nine zero good bye",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "sudanair eight five zero zero [INS] confirm established [INS]",
+    "readback": "[RBK] present heading [RBK] vectoring three one csa seven two seven",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0038",
+    "instruction": "singapoore two six praha good morning radar contact [INS] descend [INS] flight level three zero zero reach level by rapet",
+    "readback": "two six [RBK] descend [RBK] continue to level three zero zero to reach by rapet",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0002",
+    "instruction": "untied fifty three thirteen turn right [INS] heading zero nine zero [INS]",
+    "readback": "[RBK] zero nine zero [RBK] fifty three thirteen",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_1886",
+    "instruction": "[INS] wizz air four nine one [INS]",
+    "readback": "[RBK] hold the holding point [RBK] and we",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0001",
+    "instruction": "lufthansa seven three nine [INS] descending [INS] flight level three zero zero level",
+    "readback": "good afternoon lufthansa seven three nine praha radar contact descend [RBK] flight level three zero zero [RBK] level by rapet",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "roger [INS] maintain [INS] one eighty",
+    "readback": "[RBK] maintaining [RBK]",
+    "label": "matches_instruction",
+    "label_id": 0
+  },
+  {
+    "dlg_id": "dlg_cus_0008",
+    "instruction": "taxi to [INS] two six left [INS] via bravo delta southwest six twenty two",
+    "readback": "southwest six twenty two taxi to runway two six left via [RBK] bravo [RBK] charlie",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "air france one three eight two turn right [INS] heading two seven zero [INS]",
+    "readback": "lufthansa two hotel tango contact ru ruzyne tower [RBK] one one eight decimal one [RBK] good bye",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "beair one four zero [INS] intercept localizer [INS] runway three one",
+    "readback": "[RBK] three zero [RBK] air france",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_0019",
+    "instruction": "[INS] speed bird eight five [INS] for climb clearance contact praha one three three decimal three nine zero good bye",
+    "readback": "three three nine zero [RBK] flight level three [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  },
+  {
+    "dlg_id": "dlg_1488",
+    "instruction": "sudanair eight five zero zero descend [INS] four thousand feet [INS] qnh one zero two three cleared ils approach runway three one",
+    "readback": "reduce two zero zero knots [RBK] bu [RBK]",
+    "label": "no_relation",
+    "label_id": 3
+  }
+]
